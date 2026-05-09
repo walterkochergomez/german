@@ -1933,6 +1933,350 @@ die Zentralheizung|la calefacción central
 die Zielgruppe|el grupo objetivo
 die Zugfahrt|el viaje en tren
 die Zukunftspläne|los planes futuros
+der Akku|la batería recargable
+die Allee|la avenida arbolada
+der Anhänger|el remolque
+die Anleihe|el bono financiero
+die Anrede|el saludo formal
+der Ansprechpartner|la persona de contacto
+die App|la aplicación móvil
+die Arbeitszeit|el tiempo de trabajo
+der Asphalt|el asfalto
+die Atemmaske|la mascarilla
+der Aufzug|el ascensor
+die Ausfahrt|la salida (carretera)
+der Ausflug|la excursión
+die Ausnahme|la excepción
+die Ausstattung|el equipamiento
+der Bagger|la excavadora
+die Barriere|la barrera
+der Bart|la barba
+die Baustelle|la obra en construcción
+der Beitrag|la contribución
+die Bekanntgabe|el anuncio oficial
+der Bildschirmhintergrund|el fondo de pantalla
+die Blase|la vejiga
+der Blitz|el relámpago
+die Blutgruppe|el grupo sanguíneo
+der Bordcomputer|el computador de a bordo
+die Brandgefahr|el riesgo de incendio
+der Briefkasten|el buzón
+die Buchhandlung|la librería
+der Bürger|el ciudadano
+die Bürgerinitiative|la iniciativa ciudadana
+der Chip|el chip
+die Computermaus|el mouse de computador
+der Datenschutz|la protección de datos
+die Dienstleistung|el servicio
+der Dolmetscher|el intérprete
+die Drogerie|la droguería
+der Einbrecher|el ladrón
+die Einfahrt|la entrada vehicular
+der Einkaufswagen|el carro de compras
+die Einzahlungssumme|el monto del depósito
+der Elektromotor|el motor eléctrico
+die Empfangshalle|el hall de recepción
+der Endpunkt|el punto final
+die Entdeckung|el descubrimiento
+der Ernährungsplan|el plan alimenticio
+die Fahrbahn|la calzada
+der Fahrstuhl|el ascensor
+die Fernreise|el viaje largo
+der Fingerabdruck|la huella digital
+die Flugbegleiterin|la azafata
+der Fußgänger|el peatón
+die Fußgängerzone|la zona peatonal
+der Gartenzaun|la cerca del jardín
+die Gastfreundschaft|la hospitalidad
+der Gebrauchtwagen|el auto usado
+die Geduldprobe|la prueba de paciencia
+der Gehweg|la vereda
+die Gemeinschaftsarbeit|el trabajo comunitario
+der Generator|el generador
+die Gerichtsverhandlung|el juicio
+der Geschirrspüler|el lavavajillas
+die Geschäftsreise|el viaje de negocios
+der Gewinn|la ganancia
+die Gewürze|las especias
+der Gurt|el cinturón
+die Haarbürste|el cepillo para el cabello
+der Haarschnitt|el corte de pelo
+die Handtasche|el bolso
+der Handwerker|el artesano
+die Heizkörper|el radiador
+der Hubschrauber|el helicóptero
+die Impfung|la vacuna
+der Informatiker|el informático
+die Innenstadt|el centro de la ciudad
+der Internetzugang|el acceso a internet
+die Jackentasche|el bolsillo de la chaqueta
+der Jahresabschluss|el cierre anual
+die Jugendherberge|el hostal juvenil
+der Kabelsalat|el enredo de cables
+die Kaffeesorte|el tipo de café
+der Kassenzettel|el comprobante de compra
+die Kinderbetreuung|el cuidado infantil
+der Kindergarten|el jardín infantil
+die Klimapolitik|la política climática
+der Koch|el cocinero
+die Kollegin|la colega
+der Kopfschmerz|el dolor de cabeza
+die Krankenversicherung|el seguro médico
+der Kugelblitz|el rayo esférico
+die Ladezeit|el tiempo de carga
+der Lastwagen|el camión
+die Lautstärke|el volumen
+der Lebenslauf|el currículum
+die Lieblingsfarbe|el color favorito
+der Lieferant|el proveedor
+die Lieferkette|la cadena de suministro
+der Lippenstift|el lápiz labial
+die Löschtaste|la tecla borrar
+der Luftdruck|la presión atmosférica
+die Mahlzeit|la comida
+der Meeresboden|el fondo marino
+die Mitgliedschaft|la membresía
+der Müll|la basura
+die Navigation|la navegación
+der Netzstecker|el enchufe
+die Neuigkeit|la novedad
+der Notarzt|el médico de urgencias
+die Notbremse|el freno de emergencia
+der Oberkörper|la parte superior del cuerpo
+die Oberflächebeschichtung|el revestimiento superficial
+der Paketdienst|el servicio de paquetería
+die Panne|la avería
+der Papierkorb|el basurero de papel
+die Passkontrolle|el control de pasaporte
+der Pfeil|la flecha
+die Pflanzenwelt|la flora
+der Postbote|el cartero
+die Preiserhöhung|el aumento de precio
+der Prozess|el proceso
+die Prüfungsfrage|la pregunta de examen
+der Querschnitt|la sección transversal
+die Raumstation|la estación espacial
+der Regenschirmständer|el soporte para paraguas
+die Reparaturwerkstatt|el taller de reparación
+der Rettungswagen|la ambulancia
+die Rückerstattung|el reembolso
+der Satellit|el satélite
+die Sauerstoffmaske|la máscara de oxígeno
+der Schaltkreis|el circuito eléctrico
+die Schere|las tijeras
+der Schiffsverkehr|el tráfico marítimo
+die Schlaflosigkeit|el insomnio
+der Schraubenzieher|el destornillador
+die Schutzbrille|las gafas de protección
+der Sicherheitsgurt|el cinturón de seguridad
+die Sitzbank|el banco para sentarse
+der Skandal|el escándalo
+die Sonnenbrille|los lentes de sol
+der Sprachassistent|el asistente de voz
+die Speicherkarte|la tarjeta de memoria
+der Staubsauger|la aspiradora
+die Steckdose|el enchufe de pared
+der Stern|la estrella
+die Steuerungseinheit|la unidad de control
+der Stromausfall|el corte de luz
+die Tagesordnung|la agenda
+der Taschenrechner|la calculadora
+die Tastenkombination|la combinación de teclas
+der Temperaturanstieg|el aumento de temperatura
+die Tiefgarage|el estacionamiento subterráneo
+der Touchscreen|la pantalla táctil
+die Übertragung|la transmisión
+der Umzug|la mudanza
+die Untertitel|los subtítulos
+der Verbraucher|el consumidor
+die Verkehrsverbindung|la conexión de transporte
+der Videospieler|el jugador de videojuegos
+die Vorwahl|el código de área
+der Wagen|el automóvil
+die Wanderschuhe|las botas de senderismo
+der Wasserfall|la cascada
+die Wegbeschreibung|las indicaciones
+der Werkzeugkasten|la caja de herramientas
+die Wetterlage|la situación meteorológica
+der Wohnsitz|la residencia
+die Wolkendecke|la capa de nubes
+der Zahnarzt|el dentista
+die Zahlungsmethode|el método de pago
+der Zeitungskiosk|el quiosco de periódicos
+die Zimmerpflanze|la planta de interior
+der Zuschauerraum|la sala del público
+die Zwischenstation|la parada intermedia
+der Absender|el remitente
+die Abwasserleitung|la tubería de aguas residuales
+der Airbag|el airbag
+die Anforderung|el requerimiento
+der Anhang|el archivo adjunto
+die Anmietung|el arriendo
+der Aufenthaltsort|el paradero
+die Ausrüstung|el equipamiento
+der Aussichtspunkt|el mirador
+die Backmischung|la mezcla para hornear
+der Badesee|el lago para bañarse
+die Bahnstrecke|la línea ferroviaria
+der Batteriewechsel|el cambio de batería
+die Bauzeichnung|el plano de construcción
+der Bauernhof|la granja
+die Bedienungsanleitung|el manual de instrucciones
+der Beifahrer|el copiloto
+die Beleuchtung|la iluminación
+der Bergsteiger|el montañista
+die Berufsgruppe|el grupo profesional
+der Beton|el hormigón
+die Betriebsanleitung|el manual de operación
+der Bewegungsmelder|el sensor de movimiento
+die Bildschirmsperre|el bloqueo de pantalla
+der Bioabfall|el residuo orgánico
+die Blitzwarnung|la alerta de tormenta
+der Blumenladen|la florería
+die Bordkarte|la tarjeta de embarque
+der Briefumschlag|el sobre
+die Buslinie|la línea de autobús
+der Campingstuhl|la silla de camping
+die Chipkarte|la tarjeta con chip
+der Christbaum|el árbol de navidad
+die Datenschutzrichtlinie|la política de privacidad
+der Dauerauftrag|la transferencia automática
+die Dienstreise|el viaje de trabajo
+der Doppelgänger|el doble
+die Drucktaste|el botón pulsador
+der Eiffelturm|la torre Eiffel
+die Einbahnstraße|la calle de un solo sentido
+der Einkaufszettel|la lista de compras
+die Einwanderung|la inmigración
+der Elektroschrott|la basura electrónica
+die Empfangsbestätigung|la confirmación de recepción
+der Energieverbrauch|el consumo energético
+die Entfernungsangabe|la indicación de distancia
+der Ernährungsexperte|el nutricionista
+die Fahrradkette|la cadena de bicicleta
+der Fahrradhelm|el casco de bicicleta
+die Fahrtrichtung|la dirección de viaje
+der Familienstand|el estado civil
+die Fernsehserie|la serie de televisión
+der Festnetzanschluss|la línea telefónica fija
+die Filterkaffeemaschine|la cafetera de filtro
+der Firmenwagen|el auto de empresa
+die Flugbuchung|la reserva de vuelo
+der Flugdienst|el servicio aéreo
+die Fotogalerie|la galería de fotos
+der Freizeitpark|el parque de diversiones
+die Fremdsprache|el idioma extranjero
+der Frühaufsteher|el madrugador
+die Fußgängerbrücke|el puente peatonal
+der Gartenstuhl|la silla de jardín
+die Gasrechnung|la cuenta del gas
+der Gebrauchsgegenstand|el objeto de uso cotidiano
+die Gefriertruhe|el congelador
+der Gehstock|el bastón
+die Gemeinschaftsküche|la cocina compartida
+der Getränkemarkt|la tienda de bebidas
+die Gewitterwolke|la nube de tormenta
+der Glühbirne|la ampolleta
+die Grillparty|la fiesta de parrilla
+der Großhandel|el comercio mayorista
+die Grundausstattung|el equipamiento básico
+der Haarföhn|el secador de pelo
+die Handbremse|el freno de mano
+der Handlauf|el pasamanos
+die Handschrift|la letra manuscrita
+der Hausbesitzer|el dueño de casa
+die Hausnummer|el número de casa
+der Hausmeister|el conserje
+die Heizungsanlage|el sistema de calefacción
+der Hitzeschutz|la protección contra el calor
+die Holzbank|la banca de madera
+der Hörsaal|el auditorio universitario
+die Hundeleine|la correa de perro
+der Impfstoff|la vacuna
+die Inselgruppe|el archipiélago
+der Internetanbieter|el proveedor de internet
+die Jahreszeit|la estación del año
+der Jogginganzug|el buzo deportivo
+die Jugendmannschaft|el equipo juvenil
+der Kabelbruch|el corte de cable
+die Kaffeepause|la pausa para café
+der Kassenbon|el comprobante de compra
+die Kindergärtnerin|la educadora de párvulos
+der Klimaschutz|la protección climática
+die Kochbanane|el plátano para cocinar
+der Kopierer|la fotocopiadora
+die Kopie|la copia
+der Krankenpfleger|el enfermero
+die Kühltasche|la bolsa térmica
+der Kugelhahn|la válvula esférica
+die Landkarte|el mapa
+der Lastenaufzug|el montacargas
+die Lebensdauer|la vida útil
+der Lieferwagen|la furgoneta de reparto
+die Lieblingsserie|la serie favorita
+der Lichtschalter|el interruptor de luz
+die Lohnabrechnung|la liquidación de sueldo
+der Luftfilter|el filtro de aire
+die Mahlzeitpause|la pausa para comer
+der Malermeister|el maestro pintor
+die Marktlücke|el nicho de mercado
+der Meeresblick|la vista al mar
+die Müllabfuhr|la recolección de basura
+der Museumsführer|el guía de museo
+die Nachbarschaft|el vecindario
+der Nachtzug|el tren nocturno
+die Navigationsapp|la aplicación de navegación
+der Nebenjob|el trabajo secundario
+die Notaufnahme|la sala de urgencias
+der Notausgang|la salida de emergencia
+die Onlinebestellung|el pedido en línea
+der Papierstapel|la pila de papeles
+die Parkbank|la banca del parque
+der Personalausweis|el carnet de identidad
+die Plastikflasche|la botella plástica
+der Polizeieinsatz|el operativo policial
+die Preisliste|la lista de precios
+der Privatkunde|el cliente particular
+die Produktbeschreibung|la descripción del producto
+der Projektleiter|el jefe de proyecto
+die Raststätte|la estación de servicio en carretera
+der Regenschauer|el chaparrón
+die Reinigungsfirma|la empresa de limpieza
+der Reisebus|el autobús turístico
+die Rettungsaktion|la operación de rescate
+der Rückspiegel|el espejo retrovisor
+die Sanduhr|el reloj de arena
+der Schaltplan|el esquema eléctrico
+die Schiebetür|la puerta corrediza
+der Schreibtischstuhl|la silla de escritorio
+die Schulklasse|el curso escolar
+der Schulranzen|la mochila escolar
+die Sicherheitskontrolle|el control de seguridad
+der Sitzplatz|el asiento
+die Sonnencreme|el bloqueador solar
+der Sprachkurs|el curso de idiomas
+die Straßenbahn|el tranvía
+der Stromkreis|el circuito eléctrico
+die Taschenlampe|la linterna
+der Teelöffel|la cucharita
+die Tiefkühlpizza|la pizza congelada
+der Toilettenpapierhalter|el porta papel higiénico
+die Touristeninformation|la oficina de turismo
+der Treppenaufgang|la subida de escaleras
+die Unterführung|el paso subterráneo
+der Urlaubsort|el destino de vacaciones
+die Versandkosten|los costos de envío
+der Vorort|el suburbio
+die Wartungsarbeit|el trabajo de mantenimiento
+der Wasserkocher|el hervidor
+die Wasserleitung|la tubería de agua
+der Wetterbericht|el informe del tiempo
+die Winterjacke|la chaqueta de invierno
+der Wohnblock|el bloque habitacional
+die Wohnungsanzeige|el aviso de arriendo
+der Zeitungsartikel|el artículo de periódico
+die Zimmerdecke|el techo de la habitación
+der Zollbeamte|el funcionario de aduanas
 `;
 
 // Procesador de texto a Base de Datos de Objetos
