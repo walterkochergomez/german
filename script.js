@@ -485,6 +485,237 @@ zurückkommen|ist zurückgekommen|kam zurück|volver
 zusammenarbeiten|hat zusammengearbeitet|arbeitete zusammen|colaborar
 zustimmen|hat zugestimmt|stimmte zu|estar de acuerdo
 zweifeln|hat gezweifelt|zweifelte|dudar
+abbiegen|ist abgebogen|bog ab|doblar, girar
+abbilden|hat abgebildet|bildete ab|representar
+abdrucken|hat abgedruckt|druckte ab|imprimir
+abfahren|ist abgefahren|fuhr ab|partir
+abfliegen|ist abgeflogen|flog ab|despegar
+abgeben|hat abgegeben|gab ab|entregar
+abhängen|hat abgehangen|hing ab|depender
+abheben|hat abgehoben|hob ab|despegar, retirar dinero
+abreißen|hat abgerissen|riss ab|demoler
+abschicken|hat abgeschickt|schickte ab|enviar
+abschreiben|hat abgeschrieben|schrieb ab|copiar
+absinken|ist abgesunken|sank ab|hundirse
+abstimmen|hat abgestimmt|stimmte ab|votar
+abwaschen|hat abgewaschen|wusch ab|lavar
+achten|hat geachtet|achtete|prestar atención
+addieren|hat addiert|addierte|sumar
+ändern|hat geändert|änderte|cambiar
+anerkennen|hat anerkannt|erkannte an|reconocer
+anklicken|hat angeklickt|klickte an|hacer clic
+annehmen|hat angenommen|nahm an|aceptar
+anpassen|hat angepasst|passte an|adaptar
+anstoßen|hat angestoßen|stieß an|brindar, empujar
+anwenden|hat angewendet|wendete an|aplicar
+anzeigen|hat angezeigt|zeigte an|mostrar
+archivieren|hat archiviert|archivierte|archivar
+assoziieren|hat assoziiert|assoziierte|asociar
+ausbilden|hat ausgebildet|bildete aus|capacitar
+ausbrechen|ist ausgebrochen|brach aus|escapar
+ausdrucken|hat ausgedruckt|druckte aus|imprimir
+ausfallen|ist ausgefallen|fiel aus|fallar, cancelarse
+ausleihen|hat ausgeliehen|lieh aus|prestar
+auslösen|hat ausgelöst|löste aus|desencadenar
+ausprobieren|hat ausprobiert|probierte aus|probar
+ausschalten|hat ausgeschaltet|schaltete aus|apagar
+aussteigen|ist ausgestiegen|stieg aus|bajarse
+ausstellen|hat ausgestellt|stellte aus|exhibir
+ausziehen|hat ausgezogen|zog aus|mudarse, quitarse ropa
+beachten|hat beachtet|beachtete|observar
+beeinflussen|hat beeinflusst|beeinflusste|influir
+beenden|hat beendet|beendete|terminar
+befehlen|hat befohlen|befahl|ordenar
+befinden|hat befunden|befand|encontrarse
+befragen|hat befragt|befragte|interrogar
+befreien|hat befreit|befreite|liberar
+begegnen|ist begegnet|begegnete|encontrarse con
+begeistern|hat begeistert|begeisterte|entusiasmar
+begleiten|hat begleitet|begleitete|acompañar
+behandeln|hat behandelt|behandelte|tratar
+behindern|hat behindert|behinderte|obstaculizar
+beitragen|hat beigetragen|trug bei|contribuir
+bekämpfen|hat bekämpft|bekämpfte|combatir
+beklagen|hat beklagt|beklagte|lamentar
+beleuchten|hat beleuchtet|beleuchtete|iluminar
+belohnen|hat belohnt|belohnte|recompensar
+bemerken|hat bemerkt|bemerkte|notar
+bemühen|hat bemüht|bemühte|esforzarse
+benennen|hat benannt|benannte|nombrar
+benötigen|hat benötigt|benötigte|requerir
+beraten|hat beraten|beriet|asesorar
+berechnen|hat berechnet|berechnete|calcular
+bereitstellen|hat bereitgestellt|stellte bereit|proporcionar
+beruhigen|hat beruhigt|beruhigte|calmar
+beschädigen|hat beschädigt|beschädigte|dañar
+beschäftigen|hat beschäftigt|beschäftigte|ocupar
+beschließen|hat beschlossen|beschloss|decidir
+beschützen|hat beschützt|beschützte|proteger
+besiegen|hat besiegt|besiegte|derrotar
+besitzen|hat besessen|besaß|poseer
+besorgen|hat besorgt|besorgte|conseguir
+bestimmen|hat bestimmt|bestimmte|determinar
+beten|hat gebetet|betete|rezar
+betonen|hat betont|betonte|destacar
+betrachten|hat betrachtet|betrachtete|considerar
+bewegen|hat bewegt|bewegte|mover
+beweisen|hat bewiesen|bewies|demostrar
+bewerten|hat bewertet|bewertete|evaluar
+bewohnen|hat bewohnt|bewohnte|habitar
+bezweifeln|hat bezweifelt|bezweifelte|dudar
+bilden|hat gebildet|bildete|formar
+binden|hat gebunden|band|atar
+bremsen|hat gebremst|bremste|frenar
+chatten|hat gechattet|chattete|chatear
+dokumentieren|hat dokumentiert|dokumentierte|documentar
+drehen|hat gedreht|drehte|girar
+drohen|hat gedroht|drohte|amenazar
+drucken|hat gedruckt|druckte|imprimir
+durchführen|hat durchgeführt|führte durch|realizar
+durchsuchen|hat durchsucht|durchsuchte|registrar
+einführen|hat eingeführt|führte ein|introducir
+einrichten|hat eingerichtet|richtete ein|configurar
+einsammeln|hat eingesammelt|sammelte ein|recoger
+einsparen|hat eingespart|sparte ein|ahorrar
+einstellen|hat eingestellt|stellte ein|contratar, ajustar
+eintragen|hat eingetragen|trug ein|registrar
+empfinden|hat empfunden|empfand|sentir
+entdecken|hat entdeckt|entdeckte|descubrir
+entfernen|hat entfernt|entfernte|remover
+entlassen|hat entlassen|entließ|despedir
+entnehmen|hat entnommen|entnahm|extraer
+entsorgen|hat entsorgt|entsorgte|desechar
+entspannen|hat entspannt|entspannte|relajar
+erfassen|hat erfasst|erfasste|registrar
+erfüllen|hat erfüllt|erfüllte|cumplir
+ergänzen|hat ergänzt|ergänzte|completar
+erheben|hat erhoben|erhob|levantar
+erhöhen|hat erhöht|erhöhte|aumentar
+erledigen|hat erledigt|erledigte|resolver
+ermöglichen|hat ermöglicht|ermöglichte|permitir
+erneuern|hat erneuert|erneuerte|renovar
+eröffnen|hat eröffnet|eröffnete|inaugurar
+erschaffen|hat erschaffen|erschuf|crear
+erschrecken|ist erschrocken|erschrak|asustarse
+ersetzen|hat ersetzt|ersetzte|reemplazar
+erwähnen|hat erwähnt|erwähnte|mencionar
+erzwingen|hat erzwungen|erzwang|forzar
+exportieren|hat exportiert|exportierte|exportar
+filmen|hat gefilmt|filmte|filmar
+finanzieren|hat finanziert|finanzierte|financiar
+fördern|hat gefördert|förderte|promover
+formatieren|hat formatiert|formatierte|formatear
+frieren|hat gefroren|fror|congelarse
+garantieren|hat garantiert|garantierte|garantizar
+genehmigen|hat genehmigt|genehmigte|aprobar
+genießen|hat genossen|genoss|disfrutar
+gestalten|hat gestaltet|gestaltete|diseñar
+graben|hat gegraben|grub|excavar
+grüßen|hat gegrüßt|grüßte|saludar
+handhaben|hat gehandhabt|handhabte|manejar
+herunterladen|hat heruntergeladen|lud herunter|descargar
+hervorrufen|hat hervorgerufen|rief hervor|provocar
+hinzufügen|hat hinzugefügt|fügte hinzu|añadir
+importieren|hat importiert|importierte|importar
+informieren|hat informiert|informierte|informar
+investieren|hat investiert|investierte|invertir
+isolieren|hat isoliert|isolierte|aislar
+jonglieren|hat jongliert|jonglierte|hacer malabares
+kalkulieren|hat kalkuliert|kalkulierte|calcular
+kapieren|hat kapiert|kapierte|entender
+kennzeichnen|hat gekennzeichnet|kennzeichnete|marcar
+klatschen|hat geklatscht|klatschte|aplaudir
+kombinieren|hat kombiniert|kombinierte|combinar
+kommentieren|hat kommentiert|kommentierte|comentar
+kommunizieren|hat kommuniziert|kommunizierte|comunicar
+konfigurieren|hat konfiguriert|konfigurierte|configurar
+konstruieren|hat konstruiert|konstruierte|construir
+kontaktieren|hat kontaktiert|kontaktierte|contactar
+konzentrieren|hat konzentriert|konzentrierte|concentrar
+korrigieren|hat korrigiert|korrigierte|corregir
+kratzen|hat gekratzt|kratzte|rasguñar
+kritisieren|hat kritisiert|kritisierte|criticar
+kühlen|hat gekühlt|kühlte|enfriar
+laden|hat geladen|lud|cargar
+lagern|hat gelagert|lagerte|almacenar
+läuten|hat geläutet|läutete|sonar
+leiten|hat geleitet|leitete|dirigir
+leisten|hat geleistet|leistete|realizar
+liefern|hat geliefert|lieferte|entregar
+lösen|hat gelöst|löste|resolver
+markieren|hat markiert|markierte|marcar
+maximieren|hat maximiert|maximierte|maximizar
+mischen|hat gemischt|mischte|mezclar
+moderieren|hat moderiert|moderierte|moderar
+motivieren|hat motiviert|motivierte|motivar
+nachdenken|hat nachgedacht|dachte nach|reflexionar
+nachfragen|hat nachgefragt|fragte nach|consultar
+nachweisen|hat nachgewiesen|wies nach|comprobar
+navigieren|hat navigiert|navigierte|navegar
+notieren|hat notiert|notierte|anotar
+operieren|hat operiert|operierte|operar
+optimieren|hat optimiert|optimierte|optimizar
+ordnen|hat geordnet|ordnete|ordenar
+parken|hat geparkt|parkte|estacionar
+platzieren|hat platziert|platzierte|ubicar
+posten|hat gepostet|postete|publicar
+produzieren|hat produziert|produzierte|producir
+programmieren|hat programmiert|programmierte|programar
+protestieren|hat protestiert|protestierte|protestar
+prüfen|hat geprüft|prüfte|examinar
+publizieren|hat publiziert|publizierte|publicar
+rasieren|hat rasiert|rasierte|afeitar
+reagieren|hat reagiert|reagierte|reaccionar
+realisieren|hat realisiert|realisierte|realizar
+reduzieren|hat reduziert|reduzierte|reducir
+registrieren|hat registriert|registrierte|registrar
+regulieren|hat reguliert|regulierte|regular
+retten|hat gerettet|rettete|salvar
+sabotieren|hat sabotiert|sabotierte|sabotear
+sammeln|hat gesammelt|sammelte|coleccionar
+sichern|hat gesichert|sicherte|asegurar
+simulieren|hat simuliert|simulierte|simular
+sortieren|hat sortiert|sortierte|clasificar
+speichern|hat gespeichert|speicherte|guardar
+spenden|hat gespendet|spendete|donar
+steigern|hat gesteigert|steigerte|incrementar
+strukturieren|hat strukturiert|strukturierte|estructurar
+subtrahieren|hat subtrahiert|subtrahierte|restar
+transportieren|hat transportiert|transportierte|transportar
+überprüfen|hat überprüft|überprüfte|verificar
+überraschen|hat überrascht|überraschte|sorprender
+übertragen|hat übertragen|übertrug|transferir
+umarmen|hat umarmt|umarmte|abrazar
+umsetzen|hat umgesetzt|setzte um|implementar
+unterbrechen|hat unterbrochen|unterbrach|interrumpir
+unterstützen|hat unterstützt|unterstützte|apoyar
+updaten|hat upgedatet|updatete|actualizar
+verändern|hat verändert|veränderte|modificar
+verbrauchen|hat verbraucht|verbrauchte|consumir
+verdoppeln|hat verdoppelt|verdoppelte|duplicar
+vereinbaren|hat vereinbart|vereinbarte|acordar
+vergrößern|hat vergrößert|vergrößerte|agrandar
+verkleinern|hat verkleinert|verkleinerte|reducir
+verladen|hat verladen|verlud|cargar mercancía
+verlangen|hat verlangt|verlangte|exigir
+veröffentlichen|hat veröffentlicht|veröffentlichte|publicar
+verpacken|hat verpackt|verpackte|empaquetar
+verschieben|hat verschoben|verschob|mover, posponer
+verschicken|hat verschickt|verschickte|despachar
+verschlüsseln|hat verschlüsselt|verschlüsselte|encriptar
+versorgen|hat versorgt|versorgte|abastecer
+vertreten|hat vertreten|vertrat|representar
+verursachen|hat verursacht|verursachte|causar
+verwalten|hat verwaltet|verwaltete|administrar
+visualisieren|hat visualisiert|visualisierte|visualizar
+vorhersagen|hat vorhergesagt|sagte vorher|predecir
+warnen|hat gewarnt|warnte|advertir
+wiederherstellen|hat wiederhergestellt|stellte wieder her|restaurar
+winken|hat gewinkt|winkte|saludar con la mano
+zählen|hat gezählt|zählte|contar
+zerstören|hat zerstört|zerstörte|destruir
+zitieren|hat zitiert|zitierte|citar
+zuordnen|hat zugeordnet|ordnete zu|asignar
 `;
 
 // Formato: Artículo Palabra | Español
@@ -1521,6 +1752,373 @@ die Zufriedenheit|la satisfacción
 die Zukunftstechnologie|la tecnología del futuro
 die Zusammenarbeit|la colaboración
 die Zustimmung|la aprobación
+der Abfall|la basura
+das Abitur|la graduación escolar
+die Abkürzung|la abreviación
+die Abreise|la salida
+die Absprache|el acuerdo
+die Abstimmung|la votación
+die Abteilung|el departamento
+das Abenteuer|la aventura
+die Achse|el eje
+die Aktivität|la actividad
+der Alltag|la vida cotidiana
+das Angebot|la oferta
+die Angabe|la indicación
+der Angriff|el ataque
+die Ankündigung|el anuncio
+die Ankunft|la llegada
+die Anlage|la instalación
+der Anlass|el motivo
+die Anmeldung|la inscripción
+die Anweisung|la instrucción
+der Antrag|la solicitud
+die Anwendung|la aplicación
+der Anwohner|el residente
+die Anzeige|el aviso
+die Arbeitslosigkeit|el desempleo
+die Architektur|la arquitectura
+der Arm|el brazo
+der Artikel|el artículo
+der Arzttermin|la cita médica
+die Aussage|la afirmación
+die Aussicht|la vista
+der Ausweis|el documento de identidad
+die Autobatterie|la batería del auto
+der Automat|la máquina automática
+die Bar|el bar
+der Bauch|el estómago
+der Baumarkt|la ferretería
+der Bedarf|la necesidad
+die Bedienung|el servicio
+die Bedrohung|la amenaza
+der Beginn|el inicio
+die Bekanntschaft|el conocido
+die Belastung|la carga
+die Belohnung|la recompensa
+die Bemerkung|la observación
+der Berufsschule|la escuela técnica
+die Bescheinigung|el certificado
+die Beschreibung|la descripción
+die Bestellung|el pedido
+die Beteiligung|la participación
+die Bewegung|el movimiento
+die Beziehungskrise|la crisis de pareja
+der Bildschirmrand|el borde de pantalla
+die Bildung|la educación
+die Birne|la pera
+der Blickwinkel|el punto de vista
+die Bohrmaschine|el taladro
+die Botschaft|la embajada
+der Brand|el incendio
+die Bremse|el freno
+die Broschüre|el folleto
+die Bürste|el cepillo
+der Campingplatz|el camping
+der Charakterzug|el rasgo de carácter
+die Cloudlösung|la solución en la nube
+die Cola|la bebida cola
+der Container|el contenedor
+die Couch|el sofá
+der Cousin|el primo
+die Creme|la crema
+die Datenanalyse|el análisis de datos
+die Datenmenge|el volumen de datos
+die Debatte|el debate
+die Demokratie|la democracia
+das Detail|el detalle
+die Digitalisierung|la digitalización
+die Direktion|la dirección
+die Diskette|el disquete
+die Dokumentation|la documentación
+die Drohne|el dron
+der Druck|la presión
+die Durchsage|el anuncio por altavoz
+die Ehre|el honor
+die Eigenschaft|la característica
+die Einzahlung|el depósito
+die Eisenbahn|el ferrocarril
+die Elektrizität|la electricidad
+die Empfehlung|la recomendación
+der Empfang|la recepción
+die Energiequelle|la fuente de energía
+die Entfernung|la distancia
+die Entschuldigung|la disculpa
+die Entscheidung|la decisión
+die Enttäuschung|la decepción
+die Entwicklungskosten|los costos de desarrollo
+die Ernährung|la nutrición
+das Ereignis|el acontecimiento
+die Erlaubnis|el permiso
+die Ermäßigung|el descuento
+die Ernte|la cosecha
+die Eröffnung|la apertura
+die Ersatzteile|los repuestos
+die Erwärmung|el calentamiento
+die Fachkraft|el profesional especializado
+die Fakultät|la facultad
+der Fallschirm|el paracaídas
+die Fernbedienung|el control remoto
+die Feier|la celebración
+das Feld|el campo
+das Fensterglas|el vidrio de la ventana
+der Fernsehsender|el canal de televisión
+die Ferien|las vacaciones
+die Finanzierung|la financiación
+die Fitness|la condición física
+die Fluggesellschaft|la aerolínea
+die Flüssigkeit|el líquido
+die Forschungsergebnisse|los resultados de investigación
+die Fortbildung|la capacitación
+die Fotokamera|la cámara fotográfica
+die Fragestellung|el planteamiento de la pregunta
+die Freiwilligenarbeit|el voluntariado
+der Frieden|la paz
+die Frist|el plazo
+das Frühstücksei|el huevo de desayuno
+die Führung|la guía, liderazgo
+der Fußballspieler|el futbolista
+die Garage|el garaje
+die Garantie|la garantía
+das Gebäude|el edificio
+die Gebühr|la tarifa
+das Gedächtnis|la memoria
+der Gegner|el oponente
+das Gehalt|el sueldo
+das Geheimnis|el secreto
+das Gegenteil|lo contrario
+die Gelegenheit|la oportunidad
+die Gemeinschaft|la comunidad
+das Gemüsegericht|el plato de verduras
+die Geschwindigkeit|la velocidad
+das Gesetz|la ley
+das Gesicht|la cara
+das Getränk|la bebida
+das Gewerbe|el negocio
+das Gewissen|la conciencia
+das Gewitter|la tormenta
+die Gewohnheit|la costumbre
+der Gipfel|la cima
+das Glasfaserinternet|internet de fibra óptica
+der Glaube|la fe
+das Gleis|la vía del tren
+das Glücksgefühl|la sensación de felicidad
+die Goldmedaille|la medalla de oro
+der Grenzübergang|el paso fronterizo
+die Großstadt|la gran ciudad
+die Grundschule|la escuela primaria
+die Gruppe|el grupo
+das Haarshampoo|el shampoo
+die Handlung|la acción
+der Handschuh|el guante
+die Hardwarekomponente|el componente de hardware
+das Haustier|la mascota
+die Heizungskosten|los gastos de calefacción
+die Herausforderung|el desafío
+der Hintergrund|el fondo
+das Hindernis|el obstáculo
+der Hinweis|la pista
+der Hochschulabschluss|el título universitario
+die Hoffnungslosigkeit|la desesperanza
+das Huhn|la gallina
+die Identifikation|la identificación
+die Industrieanlage|la planta industrial
+die Informationstechnologie|la tecnología informática
+die Innovation|la innovación
+die Installation|la instalación
+die Integration|la integración
+das Interesse|el interés
+das Inventar|el inventario
+das Jahrzehnt|la década
+der Journalismus|el periodismo
+die Jugend|la juventud
+der Kabelanschluss|la conexión por cable
+die Kaffeemaschine|la cafetera
+die Kameraeinstellung|la configuración de cámara
+der Kapitalismus|el capitalismo
+die Karrierechance|la oportunidad profesional
+die Kasse|la caja registradora
+die Kategorisierung|la categorización
+der Kellerraum|el sótano
+die Kennzeichnung|el etiquetado
+das Kernkraftwerk|la central nuclear
+die Kette|la cadena
+das Keyboard|el teclado musical
+die Kindheit|la infancia
+der Kirchenchor|el coro de iglesia
+die Klimaanlage|el aire acondicionado
+die Klimaveränderung|el cambio climático
+die Kneipe|el bar
+die Konkurrenzfähigkeit|la competitividad
+das Kontoauszug|el extracto bancario
+die Kopfhörer|los audífonos
+die Kraft|la fuerza
+der Krankenwagen|la ambulancia
+die Kreditkarte|la tarjeta de crédito
+der Kühlschrankmagnet|el imán de refrigerador
+die Kulturveranstaltung|el evento cultural
+die Kündigungsfrist|el plazo de aviso
+das Kunstwerk|la obra de arte
+die Lagerhalle|la bodega
+das Ladegerät|el cargador
+die Landwirtschaft|la agricultura
+die Lebensqualität|la calidad de vida
+das Lebensmittelgeschäft|la tienda de alimentos
+die Leidenschaft|la pasión
+die Leistungsfähigkeit|el rendimiento
+die Lernplattform|la plataforma de aprendizaje
+die Lieferungskosten|los costos de envío
+die Lieblingsmusik|la música favorita
+die Logindaten|los datos de acceso
+die Luftverschmutzung|la contaminación del aire
+die Mannschaftskapitän|el capitán del equipo
+die Marktanalyse|el análisis de mercado
+die Maßnahme|la medida
+die Mehrheit|la mayoría
+das Mehl|la harina
+die Meinungfreiheit|la libertad de opinión
+die Menschenrechte|los derechos humanos
+die Messe|la feria
+die Mietwohnung|el departamento arrendado
+die Minderheit|la minoría
+das Missverständnis|el malentendido
+das Mobiltelefon|el teléfono móvil
+die Motivation|la motivación
+die Mülltonne|el basurero
+die Musikanlage|el equipo de música
+die Muttersprache|la lengua materna
+die Nachhaltigkeit|la sostenibilidad
+die Nachtschicht|el turno de noche
+die Nahrung|el alimento
+die Nebenkosten|los gastos comunes
+die Netzwerkverbindung|la conexión de red
+das Notebook|el notebook
+die Notiz|la nota
+die Notrufnummer|el número de emergencia
+die Oberfläche|la superficie
+die Öffentlichkeit|la opinión pública
+das Onlinebanking|la banca en línea
+der Onlinekurs|el curso en línea
+die Operationstechnik|la técnica operatoria
+der Ordnername|el nombre de carpeta
+die Organisationseinheit|la unidad organizativa
+der Parkplatz|el estacionamiento
+die Partnerschaft|la asociación
+der Passagier|el pasajero
+die Personalabteilung|el departamento de RRHH
+die Persönlichkeit|la personalidad
+die Perspektive|la perspectiva
+die Pflanze|la planta
+die Pflichtaufgabe|la tarea obligatoria
+die Plattform|la plataforma
+die Polizeistation|la comisaría
+die Position|la posición
+die Präsentation|la presentación
+der Praktikant|el practicante
+die Pressekonferenz|la conferencia de prensa
+die Produktionslinie|la línea de producción
+die Programmierung|la programación
+die Prüfung|el examen
+die Qualitätssicherung|el aseguramiento de calidad
+die Quittung|el recibo
+der Rabatt|el descuento
+die Rakete|el cohete
+der Rasen|el césped
+die Reaktion|la reacción
+die Realität|la realidad
+die Redaktion|la redacción
+die Regierungspartei|el partido gobernante
+die Reinigungskraft|el personal de limpieza
+die Reparaturkosten|los costos de reparación
+die Reservierung|la reserva
+der Rest|el resto
+die Revolution|la revolución
+die Richtlinie|la directriz
+der Ringfinger|el dedo anular
+die Robotertechnik|la robótica
+die Rückmeldung|la retroalimentación
+die Rückseite|la parte trasera
+die Rundfahrt|el tour
+der Rucksacktourist|el mochilero
+die Sache|el asunto
+der Sachverhalt|los hechos
+die Sammlung|la colección
+die Satellitenverbindung|la conexión satelital
+die Schachtel|la caja
+die Schätzung|la estimación
+die Schichtarbeit|el trabajo por turnos
+der Schinken|el jamón
+die Schokolade|el chocolate
+die Schranke|la barrera
+die Schulbildung|la educación escolar
+die Schüssel|el bol
+die Sehenswürdigkeit|el atractivo turístico
+die Selbstständigkeit|el trabajo independiente
+die Sensortechnik|la tecnología de sensores
+die Sitzung|la reunión
+die Softwarelösung|la solución de software
+die Spannung|la tensión
+der Spezialist|el especialista
+die Spielkonsole|la consola de videojuegos
+die Sportart|el deporte
+die Sprachkenntnisse|los conocimientos de idioma
+die Sprachschule|la escuela de idiomas
+die Staatsangehörigkeit|la nacionalidad
+die Steckdose|el enchufe
+die Steuererklärung|la declaración de impuestos
+der Stoff|la tela
+die Stromversorgung|el suministro eléctrico
+die Studie|el estudio
+die Suchmaschine|el motor de búsqueda
+die Supermarktkette|la cadena de supermercados
+die Technologiebranche|la industria tecnológica
+die Teilnehmerliste|la lista de participantes
+die Tastaturbeleuchtung|la iluminación del teclado
+die Teamarbeit|el trabajo en equipo
+die Temperaturmessung|la medición de temperatura
+die Touristenattraktion|la atracción turística
+die Trainingsmethode|el método de entrenamiento
+die Überschrift|el título
+die Überwachungskamera|la cámara de vigilancia
+die Unterkunftskosten|los gastos de alojamiento
+die Unterhaltung|la entretención
+die Unternehmensstrategie|la estrategia empresarial
+die Umweltverschmutzung|la contaminación ambiental
+die Unfallversicherung|el seguro de accidentes
+die Universitätsklinik|la clínica universitaria
+die Urlaubsreise|el viaje de vacaciones
+die Useroberfläche|la interfaz de usuario
+die Verantwortung|la responsabilidad
+die Verkaufsstrategie|la estrategia de ventas
+die Verkehrsampel|el semáforo
+die Verkehrsregel|la norma de tránsito
+die Verletzung|la lesión
+die Versammlung|la reunión
+die Versicherungsgesellschaft|la compañía de seguros
+die Versuchsperson|el sujeto de prueba
+die Videoaufnahme|la grabación de video
+die Videokonferenz|la videoconferencia
+die Vogelart|la especie de ave
+die Vorhersage|el pronóstico
+die Vorlesung|la clase magistral
+die Warteschlange|la fila de espera
+die Waschmaschine|la lavadora
+die Weiterbildung|la educación continua
+die Weltmeisterschaft|el campeonato mundial
+die Werbung|la publicidad
+die Werkstatt|el taller
+die Wettervorhersage|el pronóstico del tiempo
+die Wiederholung|la repetición
+die Wissenschaft|la ciencia
+die Wissenschaftlerin|la científica
+die Wohngegend|la zona residencial
+die Wolkenkratzer|el rascacielos
+die Zeitschrift|la revista
+die Zentralheizung|la calefacción central
+die Zielgruppe|el grupo objetivo
+die Zufriedenheit|la satisfacción
+die Zugfahrt|el viaje en tren
+die Zukunftspläne|los planes futuros
 `;
 
 // Procesador de texto a Base de Datos de Objetos
