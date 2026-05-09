@@ -214,102 +214,658 @@ const rawWords = `
 der Mann|el hombre
 die Frau|la mujer
 das Kind|el niño
-der Tag|el día
+das Baby|el bebé
+der Junge|el niño, muchacho
+das Mädchen|la niña
+der Mensch|el ser humano
+die Person|la persona
+der Freund|el amigo
+die Freundin|la amiga
+der Vater|el padre
+die Mutter|la madre
+der Bruder|el hermano
+die Schwester|la hermana
+der Sohn|el hijo
+die Tochter|la hija
+die Familie|la familia
+der Onkel|el tío
+die Tante|la tía
+der Cousin|el primo
+die Cousine|la prima
+die Eltern|los padres
+die Großeltern|los abuelos
+der Großvater|el abuelo
+die Großmutter|la abuela
+der Nachbar|el vecino
+die Liebe|el amor
+die Ehe|el matrimonio
+der Name|el nombre
+das Alter|la edad
+das Leben|la vida
+der Tod|la muerte
 die Zeit|el tiempo
+der Tag|el día
+die Nacht|la noche
+der Morgen|la mañana
+der Abend|la tarde, noche
+die Stunde|la hora
+die Minute|el minuto
+die Sekunde|el segundo
+die Woche|la semana
+das Wochenende|el fin de semana
+der Monat|el mes
 das Jahr|el año
-der Weg|el camino
-das Haus|la casa
+die Vergangenheit|el pasado
+die Zukunft|el futuro
+die Gegenwart|el presente
 die Welt|el mundo
 das Land|el país
-die Frage|la pregunta
-das Problem|el problema
-das Beispiel|el ejemplo
-die Arbeit|el trabajo
-die Hand|la mano
 die Stadt|la ciudad
-das Leben|la vida
-der Mensch|el ser humano
-der Fall|el caso
-das Ding|la cosa
-die Person|la persona
-der Ort|el lugar
-das Wort|la palabra
-die Familie|la familia
-das Geld|el dinero
-das Unternehmen|la empresa
-die Industrie|la industria
-der Prozess|el proceso
-die Daten|los datos
-das System|el sistema
-die Steuerung|el control (PLC), la dirección
-die Anlage|la instalación, la planta industrial
-die Maschine|la máquina
-die Qualität|la calidad
-das Modell|el modelo
-der Zwilling|el gemelo (ej. Digitaler Zwilling)
-das Projekt|el proyecto
-die Analyse|el análisis
-die Logistik|la logística
-das Netzwerk|la red
-die Wartung|el mantenimiento
-der Algorithmus|el algoritmo
-das Risiko|el riesgo
-das Management|la gestión
-der Bereich|el área, el sector
-das Bild|la imagen, el cuadro
-das Buch|el libro
-der Freund|el amigo
-das Wasser|el agua
-das Auge|el ojo
-die Mutter|la madre
-der Vater|el padre
-die Geschichte|la historia
-die Art|el tipo, la forma
-die Seite|el lado, la página
-die Entwicklung|el desarrollo
-das Ergebnis|el resultado
-die Aufgabe|la tarea, el deber
-die Form|la forma
-das Recht|el derecho
-der Sinn|el sentido
-der Staat|el estado
-die Woche|la semana
-die Sprache|el idioma
-der Monat|el mes
-der Platz|el lugar, la plaza
-das Ziel|el objetivo, la meta
-die Idee|la idea
-der Grund|la razón, el motivo
-die Gesellschaft|la sociedad
-die Möglichkeit|la posibilidad
-der Raum|el espacio, la habitación
+das Dorf|el pueblo
+die Straße|la calle
+der Weg|el camino
+der Platz|la plaza, lugar
+das Haus|la casa
+die Wohnung|el departamento
+das Zimmer|la habitación
+die Küche|la cocina
+das Bad|el baño
+das Schlafzimmer|el dormitorio
+das Wohnzimmer|la sala de estar
+die Tür|la puerta
+das Fenster|la ventana
+der Tisch|la mesa
+der Stuhl|la silla
+das Bett|la cama
+der Schrank|el armario
+die Lampe|la lámpara
+der Boden|el suelo
+das Dach|el techo
+der Garten|el jardín
+die Schule|la escuela
 der Schüler|el alumno
+der Lehrer|el profesor
+die Lehrerin|la profesora
 der Student|el estudiante universitario
-das Studium|los estudios universitarios
 die Universität|la universidad
-die Firma|la empresa, la firma
+das Studium|los estudios universitarios
+das Buch|el libro
+das Heft|el cuaderno
+der Stift|el lápiz, bolígrafo
+der Text|el texto
+das Wort|la palabra
+der Satz|la frase
+die Sprache|el idioma
+die Frage|la pregunta
+die Antwort|la respuesta
+das Beispiel|el ejemplo
+die Aufgabe|la tarea
+das Problem|el problema
+die Lösung|la solución
+die Arbeit|el trabajo
+der Beruf|la profesión
+die Firma|la empresa
+das Unternehmen|la empresa
+der Chef|el jefe
+der Mitarbeiter|el empleado
+der Kunde|el cliente
+das Büro|la oficina
+das Projekt|el proyecto
+die Industrie|la industria
 der Markt|el mercado
 der Preis|el precio
+das Geld|el dinero
+die Rechnung|la factura
+die Bank|el banco
 das Produkt|el producto
-der Kunde|el cliente
-der Mitarbeiter|el empleado, el colaborador
-der Chef|el jefe
-das Büro|la oficina
+die Produktion|la producción
+die Qualität|la calidad
+das Material|el material
+die Maschine|la máquina
+das Werkzeug|la herramienta
+die Technologie|la tecnología
+das System|el sistema
+die Daten|los datos
+das Netzwerk|la red
 der Computer|el ordenador
 das Programm|el programa
-das Internet|el internet
-die Technologie|la tecnología
-der Wert|el valor
-die Leistung|el rendimiento, la potencia
-die Erfahrung|la experiencia
-die Zukunft|el futuro
-die Vergangenheit|el pasado
-die Regel|la regla
-das Werkzeug|la herramienta
-die Methode|el método
-die Produktion|la producción
+das Internet|internet
+die Software|el software
+die Hardware|el hardware
+der Algorithmus|el algoritmo
+die Analyse|el análisis
+die Logistik|la logística
+die Wartung|el mantenimiento
+die Steuerung|el control
+das Modell|el modelo
 der Fehler|el error
-das Material|el material
+das Risiko|el riesgo
+das Management|la gestión
+die Entwicklung|el desarrollo
+die Erfahrung|la experiencia
+die Möglichkeit|la posibilidad
+die Gesellschaft|la sociedad
+der Staat|el estado
+das Recht|el derecho
+die Regel|la regla
+der Grund|la razón
+die Idee|la idea
+das Ziel|la meta
+der Sinn|el sentido
+die Form|la forma
+die Art|el tipo, la forma
+der Bereich|el área
+das Ergebnis|el resultado
+das Bild|la imagen
+die Geschichte|la historia
+das Wasser|el agua
+das Brot|el pan
+die Milch|la leche
+der Kaffee|el café
+der Tee|el té
+das Bier|la cerveza
+der Wein|el vino
+das Essen|la comida
+das Frühstück|el desayuno
+das Mittagessen|el almuerzo
+das Abendessen|la cena
+der Apfel|la manzana
+die Banane|el plátano
+die Orange|la naranja
+das Gemüse|las verduras
+das Fleisch|la carne
+der Fisch|el pescado
+das Ei|el huevo
+der Zucker|el azúcar
+das Salz|la sal
+der Pfeffer|la pimienta
+das Messer|el cuchillo
+die Gabel|el tenedor
+der Löffel|la cuchara
+der Teller|el plato
+das Glas|el vaso
+die Flasche|la botella
+die Kleidung|la ropa
+das Hemd|la camisa
+die Hose|el pantalón
+das Kleid|el vestido
+die Jacke|la chaqueta
+der Schuh|el zapato
+die Tasche|la bolsa
+die Uhr|el reloj
+die Brille|los lentes
+der Körper|el cuerpo
+der Kopf|la cabeza
+das Auge|el ojo
+das Ohr|la oreja
+die Nase|la nariz
+der Mund|la boca
+der Zahn|el diente
+die Hand|la mano
+der Arm|el brazo
+das Bein|la pierna
+der Fuß|el pie
+das Herz|el corazón
+der Rücken|la espalda
+die Gesundheit|la salud
+der Arzt|el médico
+das Krankenhaus|el hospital
+die Medizin|la medicina
+die Krankheit|la enfermedad
+der Schmerz|el dolor
+das Wetter|el clima
+die Sonne|el sol
+der Regen|la lluvia
+der Schnee|la nieve
+der Wind|el viento
+die Wolke|la nube
+der Himmel|el cielo
+das Feuer|el fuego
+die Erde|la tierra
+der Baum|el árbol
+die Blume|la flor
+der Hund|el perro
+die Katze|el gato
+das Tier|el animal
+das Auto|el automóvil
+der Bus|el autobús
+der Zug|el tren
+das Fahrrad|la bicicleta
+das Flugzeug|el avión
+die Reise|el viaje
+der Urlaub|las vacaciones
+der Bahnhof|la estación de tren
+der Flughafen|el aeropuerto
+die Musik|la música
+das Lied|la canción
+der Film|la película
+das Spiel|el juego
+der Sport|el deporte
+die Kunst|el arte
+das Foto|la foto
+die Zeitung|el periódico
+die Nachricht|la noticia
+der Fernseher|el televisor
+die Natur|la naturaleza
+der Berg|la montaña
+der Fluss|el río
+das Meer|el mar
+der Strand|la playa
+der Wald|el bosque
+die Farbe|el color
+rot|rojo
+blau|azul
+grün|verde
+gelb|amarillo
+schwarz|negro
+weiß|blanco
+groß|grande
+klein|pequeño
+gut|bueno
+schlecht|malo
+neu|nuevo
+alt|viejo
+jung|joven
+schnell|rápido
+langsam|lento
+schön|bonito
+wichtig|importante
+einfach|fácil
+schwer|difícil, pesado
+richtig|correcto
+falsch|incorrecto
+warm|caliente
+kalt|frío
+offen|abierto
+geschlossen|cerrado
+stark|fuerte
+schwach|débil
+hell|claro, brillante
+dunkel|oscuro
+früh|temprano
+spät|tarde
+nah|cerca
+weit|lejos
+immer|siempre
+nie|nunca
+oft|a menudo
+manchmal|a veces
+heute|hoy
+gestern|ayer
+morgen|mañana
+jetzt|ahora
+hier|aquí
+dort|allá
+oben|arriba
+unten|abajo
+links|izquierda
+rechts|derecha
+ja|sí
+nein|no
+bitte|por favor
+danke|gracias
+hallo|hola
+tschüss|adiós
+der Bahnhof|la estación de tren
+der Flughafen|el aeropuerto
+die Haltestelle|la parada
+das Ticket|el billete
+die Fahrkarte|el pasaje
+der Fahrer|el conductor
+die Reise|el viaje
+der Urlaub|las vacaciones
+der Koffer|la maleta
+das Hotel|el hotel
+das Restaurant|el restaurante
+das Menü|el menú
+die Suppe|la sopa
+der Salat|la ensalada
+die Kartoffel|la papa
+der Reis|el arroz
+die Nudel|la pasta
+das Hähnchen|el pollo
+das Schwein|el cerdo
+das Rindfleisch|la carne de vacuno
+das Obst|la fruta
+die Traube|la uva
+die Erdbeere|la frutilla
+die Kirsche|la cereza
+die Zitrone|el limón
+die Butter|la mantequilla
+der Käse|el queso
+die Sahne|la crema
+der Saft|el jugo
+das Getränk|la bebida
+der Hunger|el hambre
+der Durst|la sed
+der Kühlschrank|el refrigerador
+der Herd|la cocina
+der Ofen|el horno
+die Pfanne|la sartén
+der Topf|la olla
+das Rezept|la receta
+der Markt|el mercado
+der Supermarkt|el supermercado
+die Bäckerei|la panadería
+die Apotheke|la farmacia
+das Medikament|el medicamento
+die Tablette|la tableta
+das Rezept|la receta médica
+die Versicherung|el seguro
+die Polizei|la policía
+der Polizist|el policía
+die Feuerwehr|los bomberos
+der Unfall|el accidente
+die Gefahr|el peligro
+die Sicherheit|la seguridad
+das Gesetz|la ley
+das Gericht|el tribunal
+der Richter|el juez
+der Anwalt|el abogado
+das Gefängnis|la cárcel
+der Krieg|la guerra
+der Frieden|la paz
+die Regierung|el gobierno
+der Präsident|el presidente
+die Wahl|la elección
+die Politik|la política
+die Nation|la nación
+die Grenze|la frontera
+die Kultur|la cultura
+die Religion|la religión
+die Tradition|la tradición
+das Fest|la fiesta
+der Geburtstag|el cumpleaños
+die Hochzeit|la boda
+das Geschenk|el regalo
+die Einladung|la invitación
+die Party|la fiesta
+der Tanz|el baile
+das Konzert|el concierto
+das Theater|el teatro
+das Museum|el museo
+die Ausstellung|la exposición
+der Künstler|el artista
+die Malerei|la pintura
+die Fotografie|la fotografía
+die Kamera|la cámara
+der Sänger|el cantante
+die Band|la banda
+das Instrument|el instrumento
+die Gitarre|la guitarra
+das Klavier|el piano
+die Trommel|el tambor
+der Fußball|el fútbol
+das Training|el entrenamiento
+der Spieler|el jugador
+die Mannschaft|el equipo
+der Sieg|la victoria
+die Niederlage|la derrota
+der Wettbewerb|la competencia
+die Medaille|la medalla
+das Schwimmbad|la piscina
+das Fitnessstudio|el gimnasio
+der Spaziergang|el paseo
+die Natur|la naturaleza
+der Park|el parque
+der See|el lago
+die Insel|la isla
+die Wüste|el desierto
+das Tal|el valle
+der Vulkan|el volcán
+der Stern|la estrella
+der Mond|la luna
+das Universum|el universo
+die Wissenschaft|la ciencia
+die Physik|la física
+die Chemie|la química
+die Biologie|la biología
+die Mathematik|las matemáticas
+die Formel|la fórmula
+die Energie|la energía
+die Kraft|la fuerza
+die Temperatur|la temperatura
+das Gewicht|el peso
+die Länge|la longitud
+die Geschwindigkeit|la velocidad
+das Signal|la señal
+der Strom|la corriente eléctrica
+die Spannung|el voltaje
+der Sensor|el sensor
+die Automation|la automatización
+die Fabrik|la fábrica
+der Roboter|el robot
+die Softwareentwicklung|el desarrollo de software
+die Datenbank|la base de datos
+der Server|el servidor
+die Cloud|la nube
+die Anwendung|la aplicación
+das Passwort|la contraseña
+die Datei|el archivo
+der Ordner|la carpeta
+der Bildschirm|la pantalla
+die Tastatur|el teclado
+die Maus|el mouse
+das Kabel|el cable
+die Verbindung|la conexión
+das Gerät|el dispositivo
+das Handy|el celular
+das Telefon|el teléfono
+der Anruf|la llamada
+die Nachricht|el mensaje
+die E-Mail|el correo electrónico
+die Webseite|la página web
+die Suchmaschine|el buscador
+das Konto|la cuenta
+der Benutzer|el usuario
+die Anmeldung|el inicio de sesión
+der Download|la descarga
+der Upload|la subida
+die Batterie|la batería
+die Elektronik|la electrónica
+das Signal|la señal
+der Motor|el motor
+das Ventil|la válvula
+die Pumpe|la bomba
+der Druck|la presión
+die Leitung|la línea, tubería
+der Schalter|el interruptor
+die Spannung|la tensión
+die Produktion|la producción
+die Lieferung|la entrega
+das Lager|el almacén
+der Transport|el transporte
+die Bestellung|el pedido
+die Verpackung|el embalaje
+der Vertrag|el contrato
+die Karriere|la carrera profesional
+das Gehalt|el salario
+die Bewerbung|la postulación
+das Interview|la entrevista
+die Erfahrung|la experiencia
+die Fähigkeit|la habilidad
+das Wissen|el conocimiento
+die Ausbildung|la formación
+der Erfolg|el éxito
+die Verantwortung|la responsabilidad
+die Entscheidung|la decisión
+die Strategie|la estrategia
+die Planung|la planificación
+die Kommunikation|la comunicación
+die Information|la información
+die Diskussion|la discusión
+die Meinung|la opinión
+das Verhalten|el comportamiento
+die Beziehung|la relación
+das Gefühl|el sentimiento
+die Freude|la alegría
+die Angst|el miedo
+die Hoffnung|la esperanza
+der Traum|el sueño
+der Wunsch|el deseo
+die Erinnerung|el recuerdo
+die Aufmerksamkeit|la atención
+die Konzentration|la concentración
+die Motivation|la motivación
+die Kreativität|la creatividad
+die Geduld|la paciencia
+der Respekt|el respeto
+die Freiheit|la libertad
+die Verantwortung|la responsabilidad
+die Ehrlichkeit|la honestidad
+die Freundlichkeit|la amabilidad
+die Hilfe|la ayuda
+die Unterstützung|el apoyo
+die Zusammenarbeit|la colaboración
+das Team|el equipo
+die Führung|el liderazgo
+die Organisation|la organización
+die Struktur|la estructura
+die Verbesserung|la mejora
+die Innovation|la innovación
+die Digitalisierung|la digitalización
+die Nachhaltigkeit|la sostenibilidad
+die Umwelt|el medio ambiente
+die Verschmutzung|la contaminación
+das Klima|el clima
+die Krise|la crisis
+die Pandemie|la pandemia
+die Gesundheitspflege|el cuidado de la salud
+der Patient|el paciente
+die Untersuchung|el examen médico
+die Operation|la operación
+das Blut|la sangre
+der Knochen|el hueso
+die Haut|la piel
+der Muskel|el músculo
+der Hals|el cuello
+die Schulter|el hombro
+der Finger|el dedo
+der Bauch|el estómago
+das Gehirn|el cerebro
+die Lunge|el pulmón
+die Leber|el hígado
+die Stimme|la voz
+der Atem|la respiración
+der Schlaf|el sueño
+die Ernährung|la alimentación
+der Zucker|el azúcar
+das Fett|la grasa
+das Vitamin|la vitamina
+die Diät|la dieta
+die Bewegung|el movimiento
+die Übung|el ejercicio
+der Kalender|el calendario
+das Datum|la fecha
+der Termin|la cita
+die Uhrzeit|la hora exacta
+die Saison|la temporada
+der Frühling|la primavera
+der Sommer|el verano
+der Herbst|el otoño
+der Winter|el invierno
+Montag|lunes
+Dienstag|martes
+Mittwoch|miércoles
+Donnerstag|jueves
+Freitag|viernes
+Samstag|sábado
+Sonntag|domingo
+eins|uno
+zwei|dos
+drei|tres
+vier|cuatro
+fünf|cinco
+sechs|seis
+sieben|siete
+acht|ocho
+neun|nueve
+zehn|diez
+hundert|cien
+tausend|mil
+erste|primero
+zweite|segundo
+dritte|tercero
+viel|mucho
+wenig|poco
+mehr|más
+weniger|menos
+alle|todos
+einige|algunos
+anders|diferente
+gleich|igual
+bereit|listo
+frei|libre
+besetzt|ocupado
+möglich|posible
+unmöglich|imposible
+sicher|seguro
+gefährlich|peligroso
+laut|ruidoso
+leise|silencioso
+sauber|limpio
+schmutzig|sucio
+billig|barato
+teuer|caro
+freundlich|amable
+traurig|triste
+glücklich|feliz
+müde|cansado
+krank|enfermo
+gesund|saludable
+hungrig|hambriento
+durstig|sediento
+stark|fuerte
+schwach|débil
+interessant|interesante
+langweilig|aburrido
+modern|moderno
+klassisch|clásico
+digital|digital
+analog|análogo
+lokal|local
+global|global
+öffentlich|público
+privat|privado
+wahr|verdadero
+falsch|falso
+wichtig|importante
+notwendig|necesario
+normal|normal
+speziell|especial
+direkt|directo
+einfach|simple
+kompliziert|complicado
+zusammen|juntos
+allein|solo
+vielleicht|quizás
+natürlich|naturalmente
+wirklich|realmente
+genau|exactamente
+sofort|de inmediato
+bald|pronto
+bereits|ya
+noch|todavía
+fast|casi
+auch|también
+nur|solo
+besonders|especialmente
+deshalb|por eso
+trotzdem|sin embargo
+während|mientras
+wegen|debido a
+ohne|sin
+mit|con
+für|para
+gegen|contra
+zwischen|entre
+unter|debajo
+über|encima
+vor|delante
+hinter|detrás
+neben|al lado
+durch|a través
+entlang|a lo largo
 `;
 
 // Procesador de texto a Base de Datos de Objetos
