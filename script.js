@@ -2301,3 +2301,70 @@ function processAnswer(type, quality) {
     loadNextCard(type);
   }, 150);
 }
+
+// ==========================================
+// FUNCIONES DEL MODO EXAMEN
+// ==========================================
+function startTestMode(type) {
+  const db = type === 'verb' ? dbVerbs : dbWords;
+  const progress = getProgress(type);
+
+  // Filtramos solo las tarjetas que ya te sabes (reps > 0)
+  let learnedCards = db.filter(item => progress[item.id] && progress[item.id].reps > 0);
+
+  if (learnedCards.length === 0) {
+    alert("Aún no tienes tarjetas marcadas como aprendidas. ¡Estudia un poco en el modo normal primero!");
+    return;
+  }
+
+  // Barajar aleatoriamente
+  testQueue[type] = learnedCards.sort(() => Math.random() - 0.5);
+  isTestMode[type] = true;
+
+  // Cambios de UI
+  document.getElementById(`${type}-test-badge`).style.display = 'block';
+  document.getElementById(`${type}-controls`).style.display = 'none';
+  document.getElementById(`${type}-test-controls`).style.display = 'flex';
+  document.getElementById(`${type}-fc-area`).style.display = 'block';
+  document.getElementById(`${type}-empty-state`).style.display = 'none';
+
+  nextTestCard(type);
+}
+
+function nextTestCard(type) {
+  if (testQueue[type].length === 0) {
+    alert("¡Examen completado! Has repasado todas las palabras que ya te sabías.");
+    exitTestMode(type);
+    return;
+  }
+
+  let nextItem = testQueue[type].pop();
+  currentCard[type] = nextItem;
+
+  const cardEl = document.getElementById(`${type}-card`);
+  cardEl.style.transition = 'none';
+  cardEl.classList.remove('is-flipped');
+  isFlipped[type] = false;
+  document.getElementById(`${type}-test-controls`).classList.remove('visible');
+
+  if (type === 'verb') {
+    document.getElementById('verb-front-inf').innerText = nextItem.inf;
+    document.getElementById('verb-back-es').innerText = nextItem.es;
+    document.getElementById('verb-back-perf').innerText = nextItem.perf;
+    document.getElementById('verb-back-prat').innerText = nextItem.prat;
+  } else {
+    document.getElementById('word-front-de').innerText = nextItem.de;
+    document.getElementById('word-back-es').innerText = nextItem.es;
+  }
+
+  setTimeout(() => { cardEl.style.transition = 'transform 0.6s cubic-bezier(0.4, 0.2, 0.2, 1)'; }, 50);
+}
+
+function exitTestMode(type) {
+  isTestMode[type] = false;
+  document.getElementById(`${type}-test-badge`).style.display = 'none';
+  document.getElementById(`${type}-controls`).style.display = 'flex';
+  document.getElementById(`${type}-test-controls`).style.display = 'none';
+  document.getElementById(`${type}-test-controls`).classList.remove('visible');
+  loadNextCard(type);
+}
