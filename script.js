@@ -24,80 +24,189 @@ müssen|hat gemusst|musste|tener que
 wollen|hat gewollt|wollte|querer
 dürfen|hat gedurft|durfte|tener permiso
 sollen|hat gesollt|sollte|deber
-sagen|hat gesagt|sagte|decir
-geben|hat gegeben|gab|dar
-kommen|ist gekommen|kam|venir
-machen|hat gemacht|machte|hacer
-gehen|ist gegangen|ging|ir
-sehen|hat gesehen|sah|ver
-lassen|hat gelassen|ließ|dejar
-stehen|ist gestanden|stand|estar de pie
-finden|hat gefunden|fand|encontrar
-bleiben|ist geblieben|blieb|quedarse
-liegen|hat gelegen|lag|estar acostado/situado
-heißen|hat geheißen|hieß|llamarse
-denken|hat gedacht|dachte|pensar
-nehmen|hat genommen|nahm|tomar
-tun|hat getan|tat|hacer (acción)
-glauben|hat geglaubt|glaubte|creer
-halten|hat gehalten|hielt|sostener, parar
-nennen|hat genannt|nannte|nombrar
 mögen|hat gemocht|mochte|gustar
-zeigen|hat gezeigt|zeigte|mostrar
-führen|hat geführt|führte|liderar, llevar
+wissen|hat gewusst|wusste|saber
+sagen|hat gesagt|sagte|decir
 sprechen|hat gesprochen|sprach|hablar
-bringen|hat gebracht|brachte|traer
-leben|hat gelebt|lebte|vivir
-fahren|ist gefahren|fuhr|conducir, ir en vehículo
-meinen|hat gemeint|meinte|opinar, querer decir
-fragen|hat gefragt|fragte|preguntar
-kennen|hat gekannt|kannte|conocer
-gelten|hat gegolten|galt|ser válido, aplicar
-stellen|hat gestellt|stellte|colocar (vertical)
-spielen|hat gespielt|spielte|jugar
-arbeiten|hat gearbeitet|arbeitete|trabajar
-brauchen|hat gebraucht|brauchte|necesitar
-folgen|ist gefolgt|folgte|seguir
-lernen|hat gelernt|lernte|aprender
-bestehen|hat bestanden|bestand|aprobar, existir
-verstehen|hat verstanden|verstand|entender
-setzen|hat gesetzt|setzte|poner, sentar
-bekommen|hat bekommen|bekam|recibir
-beginnen|hat begonnen|begann|comenzar
+reden|hat geredet|redete|conversar
 erzählen|hat erzählt|erzählte|contar, narrar
-versuchen|hat versucht|versuchte|intentar
-schreiben|hat geschrieben|schrieb|escribir
-laufen|ist gelaufen|lief|correr
-erklären|hat erklärt|erklärte|explicar
-entsprechen|hat entsprochen|entsprach|corresponder
-sitzen|hat gesessen|saß|estar sentado
-ziehen|hat gezogen|zog|tirar, mudarse
-scheinen|hat geschienen|schien|brillar, parecer
-fallen|ist gefallen|fiel|caer
-gehören|hat gehört|gehörte|pertenecer
-entstehen|ist entstanden|entstand|surgir, originarse
-erhalten|hat erhalten|erhielt|recibir, conservar
-treffen|hat getroffen|traf|encontrar, acertar
+fragen|hat gefragt|fragte|preguntar
+antworten|hat geantwortet|antwortete|responder
+rufen|hat gerufen|rief|llamar
+schreien|hat geschrien|schrie|gritar
+flüstern|hat geflüstert|flüsterte|susurrar
+hören|hat gehört|hörte|escuchar
+sehen|hat gesehen|sah|ver
+anschauen|hat angeschaut|schaute an|mirar
+beobachten|hat beobachtet|beobachtete|observar
+zeigen|hat gezeigt|zeigte|mostrar
+finden|hat gefunden|fand|encontrar
 suchen|hat gesucht|suchte|buscar
-legen|hat gelegt|legte|colocar (horizontal)
-vorstellen|hat vorgestellt|stellte vor|presentar, imaginar
-handeln|hat gehandelt|handelte|actuar, comerciar
-erreichen|hat erreicht|erreichte|alcanrar, lograr
-tragen|hat getragen|trug|llevar puesto, cargar
-schaffen|hat geschafft|schaffte|lograr, crear
-lesen|hat gelesen|las|leer
-verlieren|hat verloren|verlor|perder
-darstellen|hat dargestellt|stellte dar|representar
+kennen|hat gekannt|kannte|conocer
 erkennen|hat erkannt|erkannte|reconocer
+verstehen|hat verstanden|verstand|entender
+lernen|hat gelernt|lernte|aprender
+studieren|hat studiert|studierte|estudiar
+lesen|hat gelesen|las|leer
+schreiben|hat geschrieben|schrieb|escribir
+buchstabieren|hat buchstabiert|buchstabierte|deletrear
+übersetzen|hat übersetzt|übersetzte|traducir
+erklären|hat erklärt|erklärte|explicar
+denken|hat gedacht|dachte|pensar
+glauben|hat geglaubt|glaubte|creer
+meinen|hat gemeint|meinte|opinar
+vergessen|hat vergessen|vergaß|olvidar
+erinnern|hat erinnert|erinnerte|recordar
+träumen|hat geträumt|träumte|soñar
+planen|hat geplant|plante|planear
+entscheiden|hat entschieden|entschied|decidir
+versuchen|hat versucht|versuchte|intentar
+beginnen|hat begonnen|begann|comenzar
+anfangen|hat angefangen|fing an|empezar
+enden|hat geendet|endete|terminar
+aufhören|hat aufgehört|hörte auf|dejar de
+machen|hat gemacht|machte|hacer
+tun|hat getan|tat|hacer (acción)
+arbeiten|hat gearbeitet|arbeitete|trabajar
+helfen|hat geholfen|half|ayudar
+benutzen|hat benutzt|benutzte|usar
+brauchen|hat gebraucht|brauchte|necesitar
+versprechen|hat versprochen|versprach|prometer
+gewinnen|hat gewonnen|gewann|ganar
+verlieren|hat verloren|verlor|perder
+bezahlen|hat bezahlt|bezahlte|pagar
+kosten|hat gekostet|kostete|costar
+kaufen|hat gekauft|kaufte|comprar
+verkaufen|hat verkauft|verkaufte|vender
+bestellen|hat bestellt|bestellte|pedir, ordenar
+bringen|hat gebracht|brachte|traer
+holen|hat geholt|holte|ir a buscar
+nehmen|hat genommen|nahm|tomar
+geben|hat gegeben|gab|dar
+bekommen|hat bekommen|bekam|recibir
+erhalten|hat erhalten|erhielt|recibir, conservar
+lassen|hat gelassen|ließ|dejar
+halten|hat gehalten|hielt|sostener, parar
+tragen|hat getragen|trug|llevar puesto, cargar
+ziehen|hat gezogen|zog|tirar, mudarse
+drücken|hat gedrückt|drückte|presionar
+werfen|hat geworfen|warf|lanzar
+fangen|hat gefangen|fing|atrapar
+schneiden|hat geschnitten|schnitt|cortar
+öffnen|hat geöffnet|öffnete|abrir
+schließen|hat geschlossen|schloss|cerrar
+bauen|hat gebaut|baute|construir
+reparieren|hat repariert|reparierte|reparar
+putzen|hat geputzt|putzte|limpiar
+waschen|hat gewaschen|wusch|lavar
+kochen|hat gekocht|kochte|cocinar
+backen|hat gebacken|buk|hornear
+essen|hat gegessen|aß|comer
+trinken|hat getrunken|trank|beber
+schmecken|hat geschmeckt|schmeckte|tener sabor
+riechen|hat gerochen|roch|oler
+schlafen|hat geschlafen|schlief|dormir
+aufwachen|ist aufgewacht|wachte auf|despertarse
+einschlafen|ist eingeschlafen|schlief ein|quedarse dormido
+leben|hat gelebt|lebte|vivir
+sterben|ist gestorben|starb|morir
+geboren werden|ist geboren worden|wurde geboren|nacer
+wachsen|ist gewachsen|wuchs|crecer
+bleiben|ist geblieben|blieb|quedarse
+wohnen|hat gewohnt|wohnte|vivir, residir
+reisen|ist gereist|reiste|viajar
+fahren|ist gefahren|fuhr|conducir, ir en vehículo
+fliegen|ist geflogen|flog|volar
+gehen|ist gegangen|ging|ir
+kommen|ist gekommen|kam|venir
+ankommen|ist angekommen|kam an|llegar
+abfahren|ist abgefahren|fuhr ab|partir
+rennen|ist gerannt|rannte|correr
+laufen|ist gelaufen|lief|correr, caminar
+spazieren|ist spaziert|spazierte|pasear
+schwimmen|ist geschwommen|schwamm|nadar
+tanzen|hat getanzt|tanzte|bailar
+springen|ist gesprungen|sprang|saltar
+klettern|ist geklettert|kletterte|trepar
+sitzen|hat gesessen|saß|estar sentado
+stehen|hat gestanden|stand|estar de pie
+liegen|hat gelegen|lag|estar acostado/situado
+setzen|hat gesetzt|setzte|poner, sentar
+stellen|hat gestellt|stellte|colocar (vertical)
+legen|hat gelegt|legte|colocar (horizontal)
+treffen|hat getroffen|traf|encontrar
+besuchen|hat besucht|besuchte|visitar
+einladen|hat eingeladen|lud ein|invitar
+heiraten|hat geheiratet|heiratete|casarse
+lieben|hat geliebt|liebte|amar
+hassen|hat gehasst|hasste|odiar
+lachen|hat gelacht|lachte|reír
+weinen|hat geweint|weinte|llorar
+lächeln|hat gelächelt|lächelte|sonreír
+fühlen|hat gefühlt|fühlte|sentir
+hoffen|hat gehofft|hoffte|esperar
+fürchten|hat gefürchtet|fürchtete|temer
+ärgern|hat geärgert|ärgerte|molestar
+freuen|hat gefreut|freute|alegrar
+gefallen|hat gefallen|gefiel|gustar
+gehören|hat gehört|gehörte|pertenecer
+passen|hat gepasst|passte|quedar bien
+brauchen|hat gebraucht|brauchte|necesitar
+wählen|hat gewählt|wählte|elegir
+ändern|hat geändert|änderte|cambiar
+verbessern|hat verbessert|verbesserte|mejorar
 entwickeln|hat entwickelt|entwickelte|desarrollar
-steuern|hat gesteuert|steuerte|controlar, dirigir (sistemas)
-programmieren|hat programmiert|programmierte|programar
+schaffen|hat geschafft|schaffte|lograr, crear
+erreichen|hat erreicht|erreichte|alcanzar
+gewinnen|hat gewonnen|gewann|ganar
+verlieren|hat verloren|verlor|perder
+existieren|hat existiert|existierte|existir
+entstehen|ist entstanden|entstand|surgir
+passieren|ist passiert|passierte|pasar, suceder
+gelten|hat gegolten|galt|ser válido
+funktionieren|hat funktioniert|funktionierte|funcionar
+verwenden|hat verwendet|verwendete|utilizar
+kontrollieren|hat kontrolliert|kontrollierte|controlar
+steuern|hat gesteuert|steuerte|dirigir, controlar
 analysieren|hat analysiert|analysierte|analizar
-optimieren|hat optimiert|optimierte|optimizar
-entwerfen|hat entworfen|entwarf|diseñar, bosquejar
+testen|hat getestet|testete|probar
 simulieren|hat simuliert|simulierte|simular
-warten|hat gewartet|wartete|esperar, dar mantenimiento (máquinas)
-testen|hat getestet|testete|probar, testear
+programmieren|hat programmiert|programmierte|programar
+optimieren|hat optimiert|optimierte|optimizar
+entwerfen|hat entworfen|entwarf|diseñar
+installieren|hat installiert|installierte|instalar
+verbinden|hat verbunden|verband|conectar
+laden|hat geladen|lud|cargar
+speichern|hat gespeichert|speicherte|guardar
+löschen|hat gelöscht|löschte|eliminar
+starten|hat gestartet|startete|iniciar
+stoppen|hat gestoppt|stoppte|detener
+warten|hat gewartet|wartete|esperar
+rechnen|hat gerechnet|rechnete|calcular
+messen|hat gemessen|maß|medir
+zählen|hat gezählt|zählte|contar
+vergleichen|hat verglichen|verglich|comparar
+untersuchen|hat untersucht|untersuchte|examinar
+zeichnen|hat gezeichnet|zeichnete|dibujar
+malen|hat gemalt|malte|pintar
+singen|hat gesungen|sang|cantar
+spielen|hat gespielt|spielte|jugar
+üben|hat geübt|übte|practicar
+gewinnen|hat gewonnen|gewann|vencer
+trainieren|hat trainiert|trainierte|entrenar
+telefonieren|hat telefoniert|telefonierte|telefonear
+fotografieren|hat fotografiert|fotografierte|fotografiar
+feiern|hat gefeiert|feierte|celebrar
+wünschen|hat gewünscht|wünschte|desear
+gratulieren|hat gratuliert|gratulierte|felicitar
+danken|hat gedankt|dankte|agradecer
+entschuldigen|hat entschuldigt|entschuldigte|disculpar
+erlauben|hat erlaubt|erlaubte|permitir
+verbieten|hat verboten|verbot|prohibir
+empfehlen|hat empfohlen|empfahl|recomendar
+erwarten|hat erwartet|erwartete|esperar
+akzeptieren|hat akzeptiert|akzeptierte|aceptar
+ablehnen|hat abgelehnt|lehnte ab|rechazar
 `;
 
 // Formato: Artículo Palabra | Español
