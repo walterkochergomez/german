@@ -1,0 +1,730 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alemán Esencial — A1 a B2</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="page">
+
+  <header>
+    <span class="lang-flag">🇩🇪</span>
+    <h1>Alemán Esencial</h1>
+    <p class="subtitle">Gramática y vocabulario clave — niveles A1 · A2 · B1 · B2</p>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab active" onclick="show('a1',this)">A1 — Principiante</button>
+    <button class="tab" onclick="show('a2',this)">A2 — Básico</button>
+    <button class="tab" onclick="show('b1',this)">B1 — Intermedio</button>
+    <button class="tab" onclick="show('b2',this)">B2 — Avanzado</button>
+    <button class="tab" onclick="show('fc-verbs',this)">Verbos (Flashcards)</button>
+    <button class="tab" onclick="show('fc-words',this)">Top 1000 (Flashcards)</button>
+  </nav>
+
+  <div id="panel-a1" class="panel active">
+
+    <div class="level-intro">
+      <span class="level-badge badge-a1">A1</span>
+      <span class="level-desc">Presentaciones, artículos, pronombres y presente básico.</span>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Artículos definidos — der / die / das</div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Género</th><th>Nominativo <span class="dim">(sujeto)</span></th><th>Acusativo <span class="dim">(obj. directo)</span></th><th>Dativo <span class="dim">(obj. indirecto)</span></th></tr></thead>
+          <tbody>
+            <tr><td>Masculino</td><td class="mono c-blue">der Mann</td><td class="mono c-red">den Mann</td><td class="mono c-green">dem Mann</td></tr>
+            <tr><td>Femenino</td><td class="mono c-blue">die Frau</td><td class="mono c-blue">die Frau</td><td class="mono c-green">der Frau</td></tr>
+            <tr><td>Neutro</td><td class="mono c-blue">das Kind</td><td class="mono c-blue">das Kind</td><td class="mono c-green">dem Kind</td></tr>
+            <tr><td>Plural</td><td class="mono c-blue">die Leute</td><td class="mono c-blue">die Leute</td><td class="mono c-green">den Leuten <span class="dim">+n</span></td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="note"><span class="note-icon">💡</span> El único cambio visible en masculino: <strong>der → den</strong> en acusativo. Memoriza ese y el resto es más simple.</div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Artículos indefinidos — ein / eine</div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Género</th><th>Nominativo</th><th>Acusativo</th><th>Dativo</th></tr></thead>
+          <tbody>
+            <tr><td>Masculino</td><td class="mono">ein Mann</td><td class="mono c-red">einen Mann</td><td class="mono c-green">einem Mann</td></tr>
+            <tr><td>Femenino</td><td class="mono">eine Frau</td><td class="mono">eine Frau</td><td class="mono c-green">einer Frau</td></tr>
+            <tr><td>Neutro</td><td class="mono">ein Kind</td><td class="mono">ein Kind</td><td class="mono c-green">einem Kind</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Pronombres personales</div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Persona</th><th>Nominativo</th><th>Acusativo</th><th>Dativo</th><th>Español</th></tr></thead>
+          <tbody>
+            <tr><td class="dim">1ª sing.</td><td class="mono c-blue">ich</td><td class="mono">mich</td><td class="mono">mir</td><td>yo</td></tr>
+            <tr><td class="dim">2ª sing.</td><td class="mono c-blue">du</td><td class="mono">dich</td><td class="mono">dir</td><td>tú</td></tr>
+            <tr><td class="dim">3ª masc.</td><td class="mono c-blue">er</td><td class="mono">ihn</td><td class="mono">ihm</td><td>él</td></tr>
+            <tr><td class="dim">3ª fem.</td><td class="mono c-blue">sie</td><td class="mono">sie</td><td class="mono">ihr</td><td>ella</td></tr>
+            <tr><td class="dim">3ª neutro</td><td class="mono c-blue">es</td><td class="mono">es</td><td class="mono">ihm</td><td>ello</td></tr>
+            <tr><td class="dim">1ª plural</td><td class="mono c-blue">wir</td><td class="mono">uns</td><td class="mono">uns</td><td>nosotros</td></tr>
+            <tr><td class="dim">2ª plural</td><td class="mono c-blue">ihr</td><td class="mono">euch</td><td class="mono">euch</td><td>ustedes</td></tr>
+            <tr><td class="dim">3ª pl. / formal</td><td class="mono c-blue">sie / Sie</td><td class="mono">sie / Sie</td><td class="mono">ihnen / Ihnen</td><td>ellos / usted</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="note"><span class="note-icon">💡</span> <strong>Sie</strong> (mayúscula) es el usted formal. <strong>sie</strong> (minúscula) significa ella o ellos según contexto.</div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Verbos en presente</div>
+      <div class="grid-2">
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th colspan="2">lernen — regular (aprender)</th></tr></thead>
+            <tbody>
+              <tr><td class="mono dim">ich</td><td class="mono">lern<strong>e</strong></td></tr>
+              <tr><td class="mono dim">du</td><td class="mono">lern<strong>st</strong></td></tr>
+              <tr><td class="mono dim">er/sie/es</td><td class="mono">lern<strong>t</strong></td></tr>
+              <tr><td class="mono dim">wir</td><td class="mono">lern<strong>en</strong></td></tr>
+              <tr><td class="mono dim">ihr</td><td class="mono">lern<strong>t</strong></td></tr>
+              <tr><td class="mono dim">sie/Sie</td><td class="mono">lern<strong>en</strong></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th colspan="2">sein — irregular (ser/estar)</th></tr></thead>
+            <tbody>
+              <tr><td class="mono dim">ich</td><td class="mono c-red">bin</td></tr>
+              <tr><td class="mono dim">du</td><td class="mono c-red">bist</td></tr>
+              <tr><td class="mono dim">er/sie/es</td><td class="mono c-red">ist</td></tr>
+              <tr><td class="mono dim">wir</td><td class="mono c-red">sind</td></tr>
+              <tr><td class="mono dim">ihr</td><td class="mono c-red">seid</td></tr>
+              <tr><td class="mono dim">sie/Sie</td><td class="mono c-red">sind</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Vocabulario básico A1</div>
+      <div class="grid-3">
+        <div class="card">
+          <div class="card-label">Saludos</div>
+          <div class="pills">
+            <span class="pill">Hallo <span class="sep">•</span> Hola</span>
+            <span class="pill">Danke <span class="sep">•</span> Gracias</span>
+            <span class="pill">Bitte <span class="sep">•</span> Por favor</span>
+            <span class="pill">Tschüss <span class="sep">•</span> Chao</span>
+            <span class="pill">Ja / Nein</span>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-label">Números clave</div>
+          <div class="pills">
+            <span class="pill">eins <span class="sep">•</span> 1</span>
+            <span class="pill">zehn <span class="sep">•</span> 10</span>
+            <span class="pill">zwanzig <span class="sep">•</span> 20</span>
+            <span class="pill">hundert <span class="sep">•</span> 100</span>
+            <span class="pill">tausend <span class="sep">•</span> 1000</span>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-label">Preguntas esenciales</div>
+          <div class="pills">
+            <span class="pill">Wie? <span class="sep">•</span> ¿Cómo?</span>
+            <span class="pill">Was? <span class="sep">•</span> ¿Qué?</span>
+            <span class="pill">Wo? <span class="sep">•</span> ¿Dónde?</span>
+            <span class="pill">Wer? <span class="sep">•</span> ¿Quién?</span>
+            <span class="pill">Wann? <span class="sep">•</span> ¿Cuándo?</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div id="panel-a2" class="panel">
+
+    <div class="level-intro">
+      <span class="level-badge badge-a2">A2</span>
+      <span class="level-desc">Pasado Perfekt, verbos modales, preposiciones y verbos separables.</span>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Pasado Perfekt — el más usado en conversación</div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Tipo de verbo</th><th>Estructura</th><th>Ejemplo</th><th>Traducción</th></tr></thead>
+          <tbody>
+            <tr><td>Regulares</td><td class="mono">haben + ge___t</td><td class="mono">Ich habe ge<strong>lernt</strong></td><td>Aprendí / He aprendido</td></tr>
+            <tr><td>Irregulares</td><td class="mono">haben + ge___en</td><td class="mono">Ich habe ge<strong>gessen</strong></td><td>Comí / He comido</td></tr>
+            <tr><td>Movimiento / cambio</td><td class="mono c-green">sein + ge___en</td><td class="mono">Ich bin ge<strong>gangen</strong></td><td>Fui / He ido</td></tr>
+            <tr><td>Separables</td><td class="mono">ge- en medio</td><td class="mono">Ich habe <strong>auf</strong>ge<strong>macht</strong></td><td>Abrí (aufmachen)</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="note"><span class="note-icon">💡</span> Verbos de movimiento o cambio de estado usan <strong>sein</strong>: gehen, fahren, kommen, werden, sein. El resto usa <strong>haben</strong>.</div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Verbos modales — presente</div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th></th><th class="mono">können <span class="dim">poder</span></th><th class="mono">müssen <span class="dim">tener que</span></th><th class="mono">wollen <span class="dim">querer</span></th><th class="mono">dürfen <span class="dim">tener permiso</span></th><th class="mono">sollen <span class="dim">deber</span></th></tr></thead>
+          <tbody>
+            <tr><td class="mono dim">ich</td><td class="mono c-blue">kann</td><td class="mono c-blue">muss</td><td class="mono c-blue">will</td><td class="mono c-blue">darf</td><td class="mono c-blue">soll</td></tr>
+            <tr><td class="mono dim">du</td><td class="mono">kannst</td><td class="mono">musst</td><td class="mono">willst</td><td class="mono">darfst</td><td class="mono">sollst</td></tr>
+            <tr><td class="mono dim">er/sie</td><td class="mono c-blue">kann</td><td class="mono c-blue">muss</td><td class="mono c-blue">will</td><td class="mono c-blue">darf</td><td class="mono c-blue">soll</td></tr>
+            <tr><td class="mono dim">wir</td><td class="mono">können</td><td class="mono">müssen</td><td class="mono">wollen</td><td class="mono">dürfen</td><td class="mono">sollen</td></tr>
+            <tr><td class="mono dim">sie/Sie</td><td class="mono">können</td><td class="mono">müssen</td><td class="mono">wollen</td><td class="mono">dürfen</td><td class="mono">sollen</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="example">Ich <strong>kann</strong> Deutsch sprechen. · Du <strong>musst</strong> das lernen. · Er <strong>will</strong> nach Hause gehen.</div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Preposiciones fijas por caso</div>
+      <div class="grid-2">
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th colspan="2" class="c-red">Siempre Acusativo</th></tr></thead>
+            <tbody>
+              <tr><td class="mono c-red">durch</td><td>a través de</td></tr>
+              <tr><td class="mono c-red">für</td><td>para</td></tr>
+              <tr><td class="mono c-red">gegen</td><td>contra</td></tr>
+              <tr><td class="mono c-red">ohne</td><td>sin</td></tr>
+              <tr><td class="mono c-red">um</td><td>alrededor / a las (hora)</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th colspan="2" class="c-green">Siempre Dativo</th></tr></thead>
+            <tbody>
+              <tr><td class="mono c-green">aus / bei</td><td>de / en casa de</td></tr>
+              <tr><td class="mono c-green">mit</td><td>con</td></tr>
+              <tr><td class="mono c-green">nach</td><td>después de / hacia</td></tr>
+              <tr><td class="mono c-green">von</td><td>de (origen)</td></tr>
+              <tr><td class="mono c-green">zu / seit</td><td>a / desde (tiempo)</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Verbos separables (Trennbare Verben)</div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Verbo</th><th>Significado</th><th>Conjugado (presente)</th></tr></thead>
+          <tbody>
+            <tr><td class="mono"><span class="c-red">auf</span>machen</td><td>abrir</td><td class="mono">Ich <strong>mache</strong> die Tür <span class="c-red">auf</span></td></tr>
+            <tr><td class="mono"><span class="c-red">an</span>rufen</td><td>llamar (teléfono)</td><td class="mono">Er <strong>ruft</strong> mich <span class="c-red">an</span></td></tr>
+            <tr><td class="mono"><span class="c-red">ein</span>kaufen</td><td>hacer compras</td><td class="mono">Wir <strong>kaufen</strong> <span class="c-red">ein</span></td></tr>
+            <tr><td class="mono"><span class="c-red">ab</span>fahren</td><td>partir / salir</td><td class="mono">Der Zug <strong>fährt</strong> <span class="c-red">ab</span></td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="note"><span class="note-icon">💡</span> El prefijo va siempre <strong>al final</strong> en presente e imperativo. En infinitivo se escribe junto. En Perfekt: ge- va entre el prefijo y la raíz → <em>aufgemacht</em>.</div>
+    </div>
+
+  </div>
+
+  <div id="panel-b1" class="panel">
+
+    <div class="level-intro">
+      <span class="level-badge badge-b1">B1</span>
+      <span class="level-desc">Preposiciones de dos casos, condicional, subordinadas y Präteritum.</span>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Preposiciones de dos casos (Wechselpräpositionen)</div>
+      <div class="note" style="margin-bottom:10px"><span class="note-icon">🧭</span> <strong>¿Wohin? (¿a dónde?) → Acusativo · ¿Wo? (¿dónde?) → Dativo.</strong> La misma preposición cambia de caso según si hay movimiento hacia un destino o posición estática.</div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Preposición</th><th class="c-red">Acusativo — movimiento hacia</th><th class="c-green">Dativo — posición estática</th></tr></thead>
+          <tbody>
+            <tr><td class="mono">in</td><td class="mono">Ich gehe <span class="c-red">in den</span> Park</td><td class="mono">Ich bin <span class="c-green">im</span> Park <span class="dim">(in+dem)</span></td></tr>
+            <tr><td class="mono">auf</td><td class="mono">Ich lege es <span class="c-red">auf den</span> Tisch</td><td class="mono">Es liegt <span class="c-green">auf dem</span> Tisch</td></tr>
+            <tr><td class="mono">an</td><td class="mono">Ich hänge es <span class="c-red">an die</span> Wand</td><td class="mono">Es hängt <span class="c-green">an der</span> Wand</td></tr>
+            <tr><td class="mono">unter / über / vor / hinter / neben / zwischen</td><td colspan="2" class="dim">Mismo patrón: acusativo = movimiento, dativo = posición</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="note"><span class="note-icon">💡</span> Contracciones frecuentes: <strong>in+dem = im · an+dem = am · in+das = ins · an+das = ans</strong></div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Konjunktiv II — condicional (würde + infinitivo)</div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th></th><th class="mono">würde <span class="dim">haría</span></th><th class="mono">hätte <span class="dim">tendría</span></th><th class="mono">wäre <span class="dim">sería/estaría</span></th><th class="mono">könnte <span class="dim">podría</span></th></tr></thead>
+          <tbody>
+            <tr><td class="mono dim">ich</td><td class="mono">würde</td><td class="mono c-amber">hätte</td><td class="mono c-amber">wäre</td><td class="mono c-amber">könnte</td></tr>
+            <tr><td class="mono dim">du</td><td class="mono">würdest</td><td class="mono">hättest</td><td class="mono">wärst</td><td class="mono">könntest</td></tr>
+            <tr><td class="mono dim">er/sie</td><td class="mono">würde</td><td class="mono c-amber">hätte</td><td class="mono c-amber">wäre</td><td class="mono c-amber">könnte</td></tr>
+            <tr><td class="mono dim">wir/sie</td><td class="mono">würden</td><td class="mono">hätten</td><td class="mono">wären</td><td class="mono">könnten</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="example">
+        Ich <strong>würde</strong> gern nach Deutschland fahren. → Me gustaría ir a Alemania.<br>
+        Wenn ich Zeit <strong>hätte</strong>, <strong>würde</strong> ich mehr lernen. → Si tuviera tiempo, aprendería más.
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Conjunciones subordinantes — verbo al final</div>
+      <div class="grid-2">
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>Conjunción</th><th>Significado</th></tr></thead>
+            <tbody>
+              <tr><td class="mono c-blue">weil</td><td>porque</td></tr>
+              <tr><td class="mono c-blue">dass</td><td>que</td></tr>
+              <tr><td class="mono c-blue">wenn</td><td>cuando / si (condición)</td></tr>
+              <tr><td class="mono c-blue">obwohl</td><td>aunque</td></tr>
+              <tr><td class="mono c-blue">damit</td><td>para que</td></tr>
+              <tr><td class="mono c-blue">nachdem</td><td>después de que</td></tr>
+              <tr><td class="mono c-blue">bevor</td><td>antes de que</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="card" style="align-self:start">
+          <div class="card-label">Regla de posición del verbo</div>
+          <p style="font-size:13px;margin-bottom:10px">Normal:<br><span class="mono">Er <strong>arbeitet</strong> viel.</span></p>
+          <p style="font-size:13px;margin-bottom:10px">Con <em>weil</em>:<br><span class="mono">Ich weiß, weil er viel <strong class="c-red">arbeitet</strong>.</span></p>
+          <p style="font-size:13px">Con <em>dass</em>:<br><span class="mono">Ich glaube, dass er müde <strong class="c-red">ist</strong>.</span></p>
+          <div class="note" style="margin-top:10px"><span class="note-icon">💡</span> El verbo conjugado va <strong>siempre al final</strong> en la subordinada.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Präteritum — pasado escrito y formal</div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Verbo</th><th>ich / er/sie</th><th>wir / sie</th><th>Tipo</th></tr></thead>
+          <tbody>
+            <tr><td class="mono">sein</td><td class="mono c-red">war</td><td class="mono c-red">waren</td><td class="dim">irregular</td></tr>
+            <tr><td class="mono">haben</td><td class="mono c-red">hatte</td><td class="mono c-red">hatten</td><td class="dim">irregular</td></tr>
+            <tr><td class="mono">gehen</td><td class="mono c-red">ging</td><td class="mono c-red">gingen</td><td class="dim">irregular</td></tr>
+            <tr><td class="mono">machen</td><td class="mono">machte</td><td class="mono">machten</td><td class="dim">regular (-te)</td></tr>
+            <tr><td class="mono">lernen</td><td class="mono">lernte</td><td class="mono">lernten</td><td class="dim">regular (-te)</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="note"><span class="note-icon">💡</span> En conversación se usa Perfekt. El Präteritum aparece en textos, noticias y siempre con <strong>sein, haben</strong> y los modales (<em>musste, konnte, wollte…</em>).</div>
+    </div>
+
+  </div>
+
+  <div id="panel-b2" class="panel">
+
+    <div class="level-intro">
+      <span class="level-badge badge-b2">B2</span>
+      <span class="level-desc">Genitivo, voz pasiva, declinación de adjetivos, Konjunktiv I y relativos.</span>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Genitivo — el cuarto caso (posesión)</div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Género</th><th>Artículo definido</th><th>Artículo indefinido</th><th>Ejemplo</th></tr></thead>
+          <tbody>
+            <tr><td>Masculino</td><td class="mono c-red">des</td><td class="mono c-red">eines</td><td class="mono">das Auto <strong>des Mannes</strong> <span class="dim">→ el auto del hombre</span></td></tr>
+            <tr><td>Femenino</td><td class="mono c-red">der</td><td class="mono c-red">einer</td><td class="mono">die Tasche <strong>der Frau</strong> <span class="dim">→ la cartera de la mujer</span></td></tr>
+            <tr><td>Neutro</td><td class="mono c-red">des</td><td class="mono c-red">eines</td><td class="mono">der Name <strong>des Kindes</strong> <span class="dim">→ el nombre del niño</span></td></tr>
+            <tr><td>Plural</td><td class="mono c-red">der</td><td class="mono dim">—</td><td class="mono">die Meinung <strong>der Leute</strong> <span class="dim">→ la opinión de la gente</span></td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="note"><span class="note-icon">💡</span> Masculino y neutro agregan <strong>-(e)s</strong> al sustantivo: der Mann → des Mann<strong>es</strong>. Femenino y plural no cambian el sustantivo.</div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Voz pasiva — Passiv</div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Tiempo</th><th>Estructura</th><th>Ejemplo</th><th>Traducción</th></tr></thead>
+          <tbody>
+            <tr><td>Presente</td><td class="mono">werden + Partizip II</td><td class="mono">Das Buch wird <strong>gelesen</strong></td><td>El libro es leído</td></tr>
+            <tr><td>Präteritum</td><td class="mono">wurde + Partizip II</td><td class="mono">Das Buch wurde <strong>gelesen</strong></td><td>El libro fue leído</td></tr>
+            <tr><td>Perfekt</td><td class="mono">ist + Partizip II + worden</td><td class="mono">Es ist <strong>gemacht worden</strong></td><td>Ha sido hecho</td></tr>
+            <tr><td>Modal + pasiva</td><td class="mono">modal + P.II + werden</td><td class="mono">Es muss <strong>gemacht werden</strong></td><td>Tiene que ser hecho</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="note"><span class="note-icon">💡</span> El agente (quien hace la acción) se introduce con <strong>von + dativo</strong>: Das Buch wurde <em>von dem Lehrer</em> gelesen.</div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Declinación de adjetivos — las 3 tablas</div>
+      <div class="grid-3">
+        <div>
+          <div class="table-wrap">
+            <table>
+              <thead><tr><th colspan="2">Con artículo definido</th></tr></thead>
+              <tbody>
+                <tr><td class="mono dim">Nom. masc.</td><td class="mono">der alt<strong class="c-blue">e</strong> Mann</td></tr>
+                <tr><td class="mono dim">Akk. masc.</td><td class="mono">den alt<strong class="c-red">en</strong> Mann</td></tr>
+                <tr><td class="mono dim">Dat. masc.</td><td class="mono">dem alt<strong class="c-green">en</strong> Mann</td></tr>
+                <tr><td class="mono dim">Nom. fem.</td><td class="mono">die alt<strong class="c-blue">e</strong> Frau</td></tr>
+                <tr><td class="mono dim">Nom. neut.</td><td class="mono">das alt<strong class="c-blue">e</strong> Kind</td></tr>
+                <tr><td class="mono dim">Plural</td><td class="mono">die alt<strong class="c-blue">en</strong></td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div>
+          <div class="table-wrap">
+            <table>
+              <thead><tr><th colspan="2">Con artículo indefinido</th></tr></thead>
+              <tbody>
+                <tr><td class="mono dim">Nom. masc.</td><td class="mono">ein alt<strong class="c-red">er</strong> Mann</td></tr>
+                <tr><td class="mono dim">Akk. masc.</td><td class="mono">einen alt<strong class="c-red">en</strong> Mann</td></tr>
+                <tr><td class="mono dim">Dat. masc.</td><td class="mono">einem alt<strong class="c-green">en</strong> Mann</td></tr>
+                <tr><td class="mono dim">Nom. fem.</td><td class="mono">eine alt<strong class="c-red">e</strong> Frau</td></tr>
+                <tr><td class="mono dim">Nom. neut.</td><td class="mono">ein alt<strong class="c-red">es</strong> Kind</td></tr>
+                <tr><td class="mono dim">Plural</td><td class="mono dim">— alte Leute</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div>
+          <div class="table-wrap">
+            <table>
+              <thead><tr><th colspan="2">Sin artículo</th></tr></thead>
+              <tbody>
+                <tr><td class="mono dim">Nom. masc.</td><td class="mono">alt<strong class="c-amber">er</strong> Mann</td></tr>
+                <tr><td class="mono dim">Akk. masc.</td><td class="mono">alt<strong class="c-amber">en</strong> Mann</td></tr>
+                <tr><td class="mono dim">Dat. masc.</td><td class="mono">alt<strong class="c-amber">em</strong> Mann</td></tr>
+                <tr><td class="mono dim">Nom. fem.</td><td class="mono">alt<strong class="c-amber">e</strong> Frau</td></tr>
+                <tr><td class="mono dim">Nom. neut.</td><td class="mono">alt<strong class="c-amber">es</strong> Kind</td></tr>
+                <tr><td class="mono dim">Plural</td><td class="mono">alt<strong class="c-amber">e</strong> Leute</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <div class="note"><span class="note-icon">💡</span> Regla maestra: el adjetivo "hereda" la terminación del artículo si este no la muestra. Sin artículo, el adjetivo lleva toda la información de género y caso.</div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Konjunktiv I — estilo indirecto (Indirekte Rede)</div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Discurso directo</th><th>Discurso indirecto</th><th>Traducción</th></tr></thead>
+          <tbody>
+            <tr><td class="mono">Er sagt: „Ich <strong>bin</strong> müde."</td><td class="mono">Er sagt, er <strong class="c-red">sei</strong> müde.</td><td>Dice que está cansado.</td></tr>
+            <tr><td class="mono">Sie sagt: „Ich <strong>habe</strong> Zeit."</td><td class="mono">Sie sagt, sie <strong class="c-red">habe</strong> Zeit.</td><td>Dice que tiene tiempo.</td></tr>
+            <tr><td class="mono">Er sagt: „Ich <strong>komme</strong>."</td><td class="mono">Er sagt, er <strong class="c-red">komme</strong>.</td><td>Dice que viene.</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="note"><span class="note-icon">💡</span> Konjunktiv I se usa principalmente en prensa y texto formal. Si la forma coincide con el indicativo, se usa Konjunktiv II o <em>würde</em> como alternativa.</div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Oraciones de relativo (Relativsätze)</div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Caso</th><th>Masc.</th><th>Fem.</th><th>Neutro</th><th>Plural</th></tr></thead>
+          <tbody>
+            <tr><td class="dim">Nominativo</td><td class="mono c-blue">der</td><td class="mono c-blue">die</td><td class="mono c-blue">das</td><td class="mono c-blue">die</td></tr>
+            <tr><td class="dim">Acusativo</td><td class="mono c-red">den</td><td class="mono c-red">die</td><td class="mono c-red">das</td><td class="mono c-red">die</td></tr>
+            <tr><td class="dim">Dativo</td><td class="mono c-green">dem</td><td class="mono c-green">der</td><td class="mono c-green">dem</td><td class="mono c-green">denen</td></tr>
+            <tr><td class="dim">Genitivo</td><td class="mono c-amber">dessen</td><td class="mono c-amber">deren</td><td class="mono c-amber">dessen</td><td class="mono c-amber">deren</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="example">
+        Der Mann, <strong>den</strong> ich kenne, ist Arzt. → El hombre que conozco es médico. (Akk.)<br>
+        Die Frau, <strong>deren</strong> Auto rot ist, wohnt hier. → La mujer cuyo auto es rojo vive aquí. (Gen.)
+      </div>
+      <div class="note"><span class="note-icon">💡</span> El pronombre relativo concuerda en género y número con el sustantivo al que se refiere, pero su caso depende de la función que tiene en la oración subordinada.</div>
+    </div>
+
+  </div>
+
+  <div id="panel-fc-verbs" class="panel">
+    <div class="level-intro">
+      <span class="level-badge badge-fc">SRS</span>
+      <span class="level-desc">Estudio con Repetición Espaciada (Anki). Haz clic en la tarjeta para voltearla.</span>
+    </div>
+
+    <div class="fc-dashboard">
+      <div class="fc-stat stat-new"><span id="verb-stat-new">0</span><span>Nuevas</span></div>
+      <div class="fc-stat stat-learn"><span id="verb-stat-learn">0</span><span>Aprendiendo</span></div>
+      <div class="fc-stat stat-review"><span id="verb-stat-review">0</span><span>Repasar</span></div>
+    </div>
+    
+    <button class="btn-reset" onclick="resetProgress('verb')">↻ Reiniciar progreso de verbos</button>
+
+    <div id="verb-fc-area">
+      <div class="flashcard-container" onclick="flipCard('verb')">
+        <div class="flashcard" id="verb-card">
+          <div class="fc-face fc-front">
+            <div class="fc-main-text" id="verb-front-inf">Infinitiv</div>
+          </div>
+          <div class="fc-face fc-back">
+            <div class="fc-translation" id="verb-back-es">Traducción</div>
+            <hr style="width: 50%; border-color: var(--border-strong); margin: 16px 0;">
+            <div class="fc-sub-text">
+              Perfekt: <span id="verb-back-perf" class="c-blue"></span><br>
+              Präteritum: <span id="verb-back-prat" class="c-amber"></span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="fc-controls" id="verb-controls">
+        <button class="btn-fc btn-fail" onclick="processAnswer('verb', 0)">No me la sabía</button>
+        <button class="btn-fc btn-pass" onclick="processAnswer('verb', 1)">Me la sabía</button>
+      </div>
+    </div>
+    
+    <div id="verb-empty-state" class="fc-empty-state" style="display:none;">
+      ¡Felicidades! Has terminado tu repaso de verbos por hoy. 🎉
+    </div>
+  </div>
+
+
+  <div id="panel-fc-words" class="panel">
+    <div class="level-intro">
+      <span class="level-badge badge-fc">SRS</span>
+      <span class="level-desc">Top 1000 palabras más usadas. Memoriza el artículo correcto.</span>
+    </div>
+
+    <div class="fc-dashboard">
+      <div class="fc-stat stat-new"><span id="word-stat-new">0</span><span>Nuevas</span></div>
+      <div class="fc-stat stat-learn"><span id="word-stat-learn">0</span><span>Aprendiendo</span></div>
+      <div class="fc-stat stat-review"><span id="word-stat-review">0</span><span>Repasar</span></div>
+    </div>
+    
+    <button class="btn-reset" onclick="resetProgress('word')">↻ Reiniciar progreso de palabras</button>
+
+    <div id="word-fc-area">
+      <div class="flashcard-container" onclick="flipCard('word')">
+        <div class="flashcard" id="word-card">
+          <div class="fc-face fc-front">
+            <div class="fc-main-text" id="word-front-de">Palabra Alemana</div>
+          </div>
+          <div class="fc-face fc-back">
+            <div class="fc-translation" id="word-back-es">Traducción</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="fc-controls" id="word-controls">
+        <button class="btn-fc btn-fail" onclick="processAnswer('word', 0)">No me la sabía</button>
+        <button class="btn-fc btn-pass" onclick="processAnswer('word', 1)">Me la sabía</button>
+      </div>
+    </div>
+
+    <div id="word-empty-state" class="fc-empty-state" style="display:none;">
+      ¡Felicidades! Has terminado tu repaso de vocabulario por hoy. 🎉
+    </div>
+  </div>
+
+  <footer>
+    Alemán A1–B2 · Para chilenos que aprenden alemán · Colores: <span style="color:var(--blue)">■ Nominativo</span> · <span style="color:var(--red)">■ Acusativo</span> · <span style="color:var(--green)">■ Dativo</span> · <span style="color:var(--amber)">■ Genitivo/Sin artículo</span>
+  </footer>
+
+</div>
+
+<script>
+// ==========================================
+// LÓGICA DE PESTAÑAS
+// ==========================================
+function show(level, btn) {
+  document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.getElementById('panel-' + level).classList.add('active');
+  btn.classList.add('active');
+  
+  // Inicializar flashcards si se entra a la pestaña
+  if(level === 'fc-verbs') loadNextCard('verb');
+  if(level === 'fc-words') loadNextCard('word');
+}
+
+// ==========================================
+// BASE DE DATOS MUESTRA (Puedes agregar más)
+// ==========================================
+
+const dbVerbs = [
+  { id: "v1", inf: "machen", perf: "hat gemacht", prat: "machte", es: "hacer" },
+  { id: "v2", inf: "gehen", perf: "ist gegangen", prat: "ging", es: "ir" },
+  { id: "v3", inf: "entwickeln", perf: "hat entwickelt", prat: "entwickelte", es: "desarrollar" },
+  { id: "v4", inf: "herstellen", perf: "hat hergestellt", prat: "stellte her", es: "fabricar / producir" },
+  { id: "v5", inf: "verstehen", perf: "hat verstanden", prat: "verstand", es: "entender" },
+];
+
+const dbWords = [
+  { id: "w1", de: "der Mann", es: "el hombre" },
+  { id: "w2", de: "die Frau", es: "la mujer" },
+  { id: "w3", de: "das Werkzeug", es: "la herramienta" },
+  { id: "w4", de: "die Daten", es: "los datos" },
+  { id: "w5", de: "der Prozess", es: "el proceso" },
+];
+
+// ==========================================
+// LÓGICA SPACED REPETITION (SRS)
+// ==========================================
+
+// Variables de estado
+let currentCard = { verb: null, word: null };
+let isFlipped = { verb: false, word: false };
+
+// Recuperar progreso del LocalStorage
+function getProgress(type) {
+  const data = localStorage.getItem(`srs_${type}`);
+  return data ? JSON.parse(data) : {};
+}
+
+function saveProgress(type, data) {
+  localStorage.setItem(`srs_${type}`, JSON.stringify(data));
+}
+
+// Función para reiniciar el progreso de un mazo
+function resetProgress(type) {
+  if(confirm("¿Seguro que quieres reiniciar este mazo? Se borrará tu historial de repasos y todas volverán a ser tarjetas nuevas.")) {
+    localStorage.removeItem(`srs_${type}`);
+    loadNextCard(type);
+  }
+}
+
+// Lógica SuperMemo-2 Simplificada
+function calculateNextInterval(cardProgress, quality) {
+  let ease = cardProgress.ease || 2.5;
+  let interval = cardProgress.interval || 0;
+  let reps = cardProgress.reps || 0;
+
+  if (quality === 0) {
+    // Falla: resetear a hoy, bajar facilidad
+    reps = 0;
+    interval = 0; // 0 días, requiere repaso inmediato
+    ease = Math.max(1.3, ease - 0.2);
+  } else {
+    // Acierto
+    if (reps === 0) interval = 1;      // Primera vez bien -> 1 día
+    else if (reps === 1) interval = 3; // Segunda vez bien -> 3 días
+    else interval = Math.round(interval * ease); // Posteriores
+    reps++;
+  }
+
+  // Guardamos Timestamp (Milisegundos: hoy + (intervalo en días * 24h))
+  const nextReview = Date.now() + (interval * 24 * 60 * 60 * 1000);
+
+  return { ease, interval, reps, nextReview };
+}
+
+// Cargar la siguiente tarjeta en la UI
+function loadNextCard(type) {
+  const db = type === 'verb' ? dbVerbs : dbWords;
+  const progress = getProgress(type);
+  const now = Date.now();
+
+  let queueNew = [];
+  let queueReview = [];
+  let queueLearning = [];
+
+  // Clasificar las tarjetas
+  db.forEach(item => {
+    const p = progress[item.id];
+    if (!p) {
+      queueNew.push(item);
+    } else if (p.nextReview <= now) {
+      if (p.interval === 0) queueLearning.push(item);
+      else queueReview.push(item);
+    }
+  });
+
+  // Actualizar dashboard estadístico
+  document.getElementById(`${type}-stat-new`).innerText = queueNew.length;
+  document.getElementById(`${type}-stat-learn`).innerText = queueLearning.length;
+  document.getElementById(`${type}-stat-review`).innerText = queueReview.length;
+
+  // Seleccionar la próxima tarjeta (Prioridad: Aprender > Repasar > Nuevas)
+  let nextItem = null;
+  if (queueLearning.length > 0) nextItem = queueLearning[0];
+  else if (queueReview.length > 0) nextItem = queueReview[0];
+  else if (queueNew.length > 0) nextItem = queueNew[0];
+
+  const area = document.getElementById(`${type}-fc-area`);
+  const emptyState = document.getElementById(`${type}-empty-state`);
+
+  if (!nextItem) {
+    area.style.display = 'none';
+    emptyState.style.display = 'block';
+    return;
+  }
+
+  area.style.display = 'block';
+  emptyState.style.display = 'none';
+
+  // Reset UI de la tarjeta actual
+  currentCard[type] = nextItem;
+  isFlipped[type] = false;
+  document.getElementById(`${type}-card`).classList.remove('is-flipped');
+  document.getElementById(`${type}-controls`).classList.remove('visible');
+
+  // Rellenar datos según tipo
+  if (type === 'verb') {
+    document.getElementById('verb-front-inf').innerText = nextItem.inf;
+    document.getElementById('verb-back-es').innerText = nextItem.es;
+    document.getElementById('verb-back-perf').innerText = nextItem.perf;
+    document.getElementById('verb-back-prat').innerText = nextItem.prat;
+  } else {
+    document.getElementById('word-front-de').innerText = nextItem.de;
+    document.getElementById('word-back-es').innerText = nextItem.es;
+  }
+}
+
+// Voltear Tarjeta
+function flipCard(type) {
+  if (isFlipped[type] || !currentCard[type]) return; 
+  
+  isFlipped[type] = true;
+  document.getElementById(`${type}-card`).classList.add('is-flipped');
+  
+  // Mostrar botones después de voltear
+  setTimeout(() => {
+    document.getElementById(`${type}-controls`).classList.add('visible');
+  }, 300); // Pequeño retraso para que se vea la animación
+}
+
+// Procesar Respuesta (0 = Fallo, 1 = Acierto)
+function processAnswer(type, quality) {
+  if (!currentCard[type]) return;
+
+  const progress = getProgress(type);
+  const cardId = currentCard[type].id;
+  const currentP = progress[cardId] || { ease: 2.5, interval: 0, reps: 0 };
+  
+  // Calcular nuevo estado
+  progress[cardId] = calculateNextInterval(currentP, quality);
+  
+  // Guardar y cargar la siguiente
+  saveProgress(type, progress);
+  
+  // Pequeño timeout visual antes de cargar la siguiente
+  document.getElementById(`${type}-controls`).classList.remove('visible');
+  setTimeout(() => {
+    loadNextCard(type);
+  }, 150);
+}
+
+  <script src="script.js"></script>
+</body>
+</html>
