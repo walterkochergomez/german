@@ -1015,14 +1015,10 @@ bitte|por favor
 danke|gracias
 hallo|hola
 tschüss|adiós
-der Bahnhof|la estación de tren
-der Flughafen|el aeropuerto
 die Haltestelle|la parada
 das Ticket|el billete
 die Fahrkarte|el pasaje
 der Fahrer|el conductor
-die Reise|el viaje
-der Urlaub|las vacaciones
 der Koffer|la maleta
 das Hotel|el hotel
 das Restaurant|el restaurante
@@ -1053,13 +1049,11 @@ der Ofen|el horno
 die Pfanne|la sartén
 der Topf|la olla
 das Rezept|la receta
-der Markt|el mercado
 der Supermarkt|el supermercado
 die Bäckerei|la panadería
 die Apotheke|la farmacia
 das Medikament|el medicamento
 die Tablette|la tableta
-das Rezept|la receta médica
 die Versicherung|el seguro
 die Polizei|la policía
 der Polizist|el policía
@@ -1067,7 +1061,6 @@ die Feuerwehr|los bomberos
 der Unfall|el accidente
 die Gefahr|el peligro
 die Sicherheit|la seguridad
-das Gesetz|la ley
 das Gericht|el tribunal
 der Richter|el juez
 der Anwalt|el abogado
@@ -1115,14 +1108,12 @@ die Medaille|la medalla
 das Schwimmbad|la piscina
 das Fitnessstudio|el gimnasio
 der Spaziergang|el paseo
-die Natur|la naturaleza
 der Park|el parque
 der See|el lago
 die Insel|la isla
 die Wüste|el desierto
 das Tal|el valle
 der Vulkan|el volcán
-der Stern|la estrella
 der Mond|la luna
 das Universum|el universo
 die Wissenschaft|la ciencia
@@ -1161,7 +1152,6 @@ das Gerät|el dispositivo
 das Handy|el celular
 das Telefon|el teléfono
 der Anruf|la llamada
-die Nachricht|el mensaje
 die E-Mail|el correo electrónico
 die Webseite|la página web
 die Suchmaschine|el buscador
@@ -1170,17 +1160,13 @@ der Benutzer|el usuario
 die Anmeldung|el inicio de sesión
 der Download|la descarga
 der Upload|la subida
-die Batterie|la batería
 die Elektronik|la electrónica
-das Signal|la señal
 der Motor|el motor
 das Ventil|la válvula
 die Pumpe|la bomba
 der Druck|la presión
 die Leitung|la línea, tubería
 der Schalter|el interruptor
-die Spannung|la tensión
-die Produktion|la producción
 die Lieferung|la entrega
 das Lager|el almacén
 der Transport|el transporte
@@ -1191,7 +1177,6 @@ die Karriere|la carrera profesional
 das Gehalt|el salario
 die Bewerbung|la postulación
 das Interview|la entrevista
-die Erfahrung|la experiencia
 die Fähigkeit|la habilidad
 das Wissen|el conocimiento
 die Ausbildung|la formación
@@ -1205,7 +1190,6 @@ die Information|la información
 die Diskussion|la discusión
 die Meinung|la opinión
 das Verhalten|el comportamiento
-die Beziehung|la relación
 das Gefühl|el sentimiento
 die Freude|la alegría
 die Angst|el miedo
@@ -1215,12 +1199,10 @@ der Wunsch|el deseo
 die Erinnerung|el recuerdo
 die Aufmerksamkeit|la atención
 die Konzentration|la concentración
-die Motivation|la motivación
 die Kreativität|la creatividad
 die Geduld|la paciencia
 der Respekt|el respeto
 die Freiheit|la libertad
-die Verantwortung|la responsabilidad
 die Ehrlichkeit|la honestidad
 die Freundlichkeit|la amabilidad
 die Hilfe|la ayuda
@@ -1236,7 +1218,6 @@ die Digitalisierung|la digitalización
 die Nachhaltigkeit|la sostenibilidad
 die Umwelt|el medio ambiente
 die Verschmutzung|la contaminación
-das Klima|el clima
 die Krise|la crisis
 die Pandemie|la pandemia
 die Gesundheitspflege|el cuidado de la salud
@@ -1257,8 +1238,6 @@ die Leber|el hígado
 die Stimme|la voz
 der Atem|la respiración
 der Schlaf|el sueño
-die Ernährung|la alimentación
-der Zucker|el azúcar
 das Fett|la grasa
 das Vitamin|la vitamina
 die Diät|la dieta
@@ -1324,8 +1303,6 @@ krank|enfermo
 gesund|saludable
 hungrig|hambriento
 durstig|sediento
-stark|fuerte
-schwach|débil
 interessant|interesante
 langweilig|aburrido
 modern|moderno
@@ -1338,12 +1315,10 @@ global|global
 privat|privado
 wahr|verdadero
 falsch|falso
-wichtig|importante
 notwendig|necesario
 normal|normal
 speziell|especial
 direkt|directo
-einfach|simple
 kompliziert|complicado
 zusammen|juntos
 allein|solo
@@ -1401,7 +1376,6 @@ der Bäcker|el panadero
 die Bäckerei|la panadería
 der Balkon|el balcón
 der Ball|la pelota
-die Banane|el plátano
 die Batterie|la batería
 der Beamte|el funcionario
 die Bedeutung|el significado
@@ -1410,14 +1384,10 @@ der Bedarf|la necesidad
 die Begegnung|el encuentro
 die Begeisterung|el entusiasmo
 die Behörde|la autoridad
-die Beziehung|la relación
 die Bibliothek|la biblioteca
-der Bildschirm|la pantalla
 die Bitte|la petición
 der Blick|la mirada
-die Blume|la flor
 der Bleistift|el lápiz
-der Boden|el suelo
 die Botschaft|el mensaje, embajada
 der Brief|la carta
 die Brücke|el puente
@@ -1429,15 +1399,11 @@ der Chat|el chat
 die Chefin|la jefa
 der Chirurg|el cirujano
 der Club|el club
-die Creme|la crema
-der Cousin|el primo
 die Dame|la dama
-die Datei|el archivo
 die Decke|la manta, techo
 die Demokratie|la democracia
 der Dialog|el diálogo
 der Dieb|el ladrón
-die Diskussion|la discusión
 die Distanz|la distancia
 das Dokument|el documento
 die Dose|la lata
@@ -1448,7 +1414,6 @@ die Ecke|la esquina
 die Ehefrau|la esposa
 der Ehemann|el esposo
 die Eigenschaft|la característica
-die Einladung|la invitación
 der Eindruck|la impresión
 die Einführung|la introducción
 die Einheit|la unidad
@@ -1458,38 +1423,27 @@ der Eintritt|la entrada
 die Empfehlung|la recomendación
 die Entfernung|la distancia
 die Entschuldigung|la disculpa
-die Ernährung|la alimentación
-die Erinnerung|el recuerdo
 die Erlaubnis|el permiso
 die Ernte|la cosecha
 die Erwärmung|el calentamiento
 die Erziehung|la educación
 das Experiment|el experimento
 der Experte|el experto
-die Fabrik|la fábrica
-die Fähigkeit|la habilidad
 die Fakultät|la facultad
 der Fan|el fanático
 die Fantasie|la fantasía
-die Farbe|el color
 das Fahrzeug|el vehículo
 der Fehlercode|el código de error
 das Fensterbrett|el alféizar
 das Fernsehprogramm|la programación de TV
 die Festplatte|el disco duro
-das Fett|la grasa
 die Figur|la figura
-der Finger|el dedo
-die Firma|la empresa
 die Fläche|la superficie
-die Flasche|la botella
-der Flughafen|el aeropuerto
 der Flur|el pasillo
 die Flüssigkeit|el líquido
 die Folge|la consecuencia
 die Forschung|la investigación
 der Fortschritt|el progreso
-die Freiheit|la libertad
 die Freizeit|el tiempo libre
 der Fremde|el extranjero
 die Freundschaft|la amistad
@@ -1497,42 +1451,20 @@ die Frucht|la fruta
 die Führungskraft|el líder
 die Funktion|la función
 der Fußboden|el piso
-die Garage|el garaje
 der Gedanke|el pensamiento
 das Gedicht|el poema
-die Geduld|la paciencia
-die Gefahr|el peligro
 das Gegenteil|lo contrario
 die Gegend|la zona
-das Gehirn|el cerebro
 das Geheimnis|el secreto
 die Gelegenheit|la oportunidad
-das Gemüse|la verdura
 die Generation|la generación
-das Geschenk|el regalo
 das Gesetzbuch|el código legal
 das Gespräch|la conversación
-die Geschwindigkeit|la velocidad
-das Gesicht|el rostro
 die Gewohnheit|la costumbre
-das Gewitter|la tormenta
 das Glück|la suerte
 der Grat|la cresta
-die Grenze|la frontera
-die Gruppe|el grupo
-das Haar|el cabello
-der Hafen|el puerto
-der Hammer|el martillo
-die Handlung|la acción
-das Handtuch|la toalla
-das Handy|el móvil
-der Händler|el comerciante
-die Harmonie|la armonía
-das Herz|el corazón
 die Heizung|la calefacción
 der Held|el héroe
-das Hemd|la camisa
-der Herd|la cocina
 die Herkunft|el origen
 der Hinweis|la indicación
 der Horizont|el horizonte
@@ -1543,15 +1475,11 @@ die Industrieanlage|la planta industrial
 die Informationstechnologie|la tecnología de información
 der Ingenieur|el ingeniero
 der Inhalt|el contenido
-die Insel|la isla
 die Intelligenz|la inteligencia
-das Interview|la entrevista
 der Kaffeeautomat|la máquina de café
-der Kalender|el calendario
 die Kampagne|la campaña
 der Kanal|el canal
 die Kapazität|la capacidad
-die Karriere|la carrera profesional
 die Kategorie|la categoría
 der Keller|el sótano
 die Kenntnis|el conocimiento
@@ -1559,10 +1487,8 @@ der Kern|el núcleo
 das Kilo|el kilo
 die Kirche|la iglesia
 die Klasse|la clase
-das Klima|el clima
 der Kofferraum|el maletero
 der Kollege|el colega
-die Kommunikation|la comunicación
 die Kompetenz|la competencia
 die Konkurrenz|la competencia
 der Kontakt|el contacto
@@ -1571,13 +1497,9 @@ die Kontrolle|el control
 der Kopfsteinpflaster|el adoquín
 die Kraftstoff|el combustible
 der Kreis|el círculo
-die Krise|la crisis
 die Kritik|la crítica
-die Küche|la cocina
 der Kugelschreiber|el bolígrafo
-der Kunde|el cliente
 die Kündigung|el despido
-die Kunst|el arte
 die Kurve|la curva
 das Labor|el laboratorio
 der Laptop|el portátil
@@ -1587,28 +1509,20 @@ die Landschaft|el paisaje
 die Laune|el humor
 die Leitung|la dirección
 die Lektion|la lección
-die Liebe|el amor
 die Lieferung|la entrega
 die Liste|la lista
 das Lokal|el local
-die Lösung|la solución
 die Luft|el aire
-die Maschine|la máquina
 die Mehrheit|la mayoría
-die Meinung|la opinión
 die Meldung|el aviso
 die Menge|la cantidad
-das Messer|el cuchillo
 die Methode|el método
 das Mikrofon|el micrófono
 die Mitte|el centro
 das Mittel|el medio
 die Mode|la moda
 der Monitor|el monitor
-die Motivation|la motivación
-der Motor|el motor
 die Münze|la moneda
-das Museum|el museo
 die Musikrichtung|el género musical
 die Nachrichtensendung|el noticiero
 die Nachfrage|la demanda
@@ -1623,13 +1537,11 @@ das Objekt|el objeto
 die Oberfläche|la superficie
 die Öffentlichkeit|el público
 die Öffnung|la apertura
-die Organisation|la organización
 der Ortsteil|el barrio
 die Packung|el paquete
 die Partnerschaft|la asociación
 die Pause|la pausa
 die Persönlichkeit|la personalidad
-die Pflanze|la planta
 die Pflicht|el deber
 das Publikum|el público
 der Punkt|el punto
@@ -1647,7 +1559,6 @@ der Ring|el anillo
 die Rolle|el rol
 der Rucksack|la mochila
 die Rückkehr|el regreso
-der Rücken|la espalda
 die Ruhe|la tranquilidad
 der Saal|el salón
 die Sammlung|la colección
@@ -1658,18 +1569,14 @@ das Schild|el letrero
 der Schirm|el paraguas
 die Schlange|la serpiente, fila
 der Schlüssel|la llave
-der Schmerz|el dolor
 die Schnecke|el caracol
 die Schrift|la escritura
 der Schritt|el paso
 der Schutz|la protección
 die Schwierigkeit|la dificultad
 die Sehenswürdigkeit|el lugar turístico
-die Sicherheit|la seguridad
 die Situation|la situación
 die Socke|el calcetín
-die Software|el software
-die Spannung|la tensión
 die Speisekarte|la carta del restaurante
 die Spiegelung|el reflejo
 die Spracheinstellung|la configuración de idioma
@@ -1677,13 +1584,9 @@ die Stimmung|el ambiente, estado de ánimo
 die Stärke|la fortaleza
 die Station|la estación
 die Statistik|la estadística
-die Steckdose|el enchufe
-der Stern|la estrella
 die Steuer|el impuesto
-die Stimme|la voz
 die Störung|la avería
 die Strecke|la ruta
-die Struktur|la estructura
 die Studie|el estudio
 die Stufe|el nivel
 der Sturm|la tormenta
@@ -1697,28 +1600,19 @@ die Tätigkeit|la actividad
 die Technik|la técnica
 der Teil|la parte
 der Teilnehmer|el participante
-die Temperatur|la temperatura
 der Teppich|la alfombra
 der Terminplan|el cronograma
 die Theorie|la teoría
 das Thema|el tema
-die Tradition|la tradición
-der Traum|el sueño
 die Trennung|la separación
-die Universität|la universidad
 die Ursache|la causa
-die Unterhaltung|la entretención
 die Umgebung|el entorno
 die Umsetzung|la implementación
 die Unterkunft|el alojamiento
 die Unterhaltungselektronik|la electrónica de consumo
 die Veränderung|el cambio
-die Verantwortung|la responsabilidad
-die Verbindung|la conexión
-das Verhalten|el comportamiento
-das Verhältnis|la relación
+ das Verhältnis|la relación
 die Verhandlung|la negociación
-die Verpackung|el embalaje
 der Versuch|el intento
 die Version|la versión
 die Versorgung|el suministro
@@ -1730,13 +1624,8 @@ die Wahlkabine|la cabina de votación
 die Wahrnehmung|la percepción
 die Wand|la pared
 die Warnung|la advertencia
-das Werkzeug|la herramienta
-der Wettbewerb|la competencia
 das WLAN|el wifi
-die Wolke|la nube
-die Werkstatt|el taller
 die Wirkung|el efecto
-die Wissenschaftlerin|la científica
 der Wunschzettel|la lista de deseos
 die Wurzel|la raíz
 die Zahlung|el pago
@@ -1750,7 +1639,6 @@ der Zuschauer|el espectador
 der Zustand|el estado
 die Zufriedenheit|la satisfacción
 die Zukunftstechnologie|la tecnología del futuro
-die Zusammenarbeit|la colaboración
 die Zustimmung|la aprobación
 der Abfall|la basura
 das Abitur|la graduación escolar
@@ -1758,8 +1646,6 @@ die Abkürzung|la abreviación
 die Abreise|la salida
 die Absprache|el acuerdo
 die Abstimmung|la votación
-die Abteilung|el departamento
-das Abenteuer|la aventura
 die Achse|el eje
 die Aktivität|la actividad
 der Alltag|la vida cotidiana
@@ -1767,29 +1653,20 @@ das Angebot|la oferta
 die Angabe|la indicación
 der Angriff|el ataque
 die Ankündigung|el anuncio
-die Ankunft|la llegada
-die Anlage|la instalación
 der Anlass|el motivo
-die Anmeldung|la inscripción
 die Anweisung|la instrucción
 der Antrag|la solicitud
-die Anwendung|la aplicación
 der Anwohner|el residente
-die Anzeige|el aviso
 die Arbeitslosigkeit|el desempleo
 die Architektur|la arquitectura
-der Arm|el brazo
 der Artikel|el artículo
 der Arzttermin|la cita médica
-die Aussage|la afirmación
 die Aussicht|la vista
 der Ausweis|el documento de identidad
 die Autobatterie|la batería del auto
 der Automat|la máquina automática
 die Bar|el bar
-der Bauch|el estómago
 der Baumarkt|la ferretería
-der Bedarf|la necesidad
 die Bedienung|el servicio
 die Bedrohung|la amenaza
 der Beginn|el inicio
@@ -1800,16 +1677,13 @@ die Bemerkung|la observación
 der Berufsschule|la escuela técnica
 die Bescheinigung|el certificado
 die Beschreibung|la descripción
-die Bestellung|el pedido
 die Beteiligung|la participación
-die Bewegung|el movimiento
 die Beziehungskrise|la crisis de pareja
 der Bildschirmrand|el borde de pantalla
 die Bildung|la educación
 die Birne|la pera
 der Blickwinkel|el punto de vista
 die Bohrmaschine|el taladro
-die Botschaft|la embajada
 der Brand|el incendio
 die Bremse|el freno
 die Broschüre|el folleto
@@ -1820,43 +1694,28 @@ die Cloudlösung|la solución en la nube
 die Cola|la bebida cola
 der Container|el contenedor
 die Couch|el sofá
-der Cousin|el primo
-die Creme|la crema
 die Datenanalyse|el análisis de datos
 die Datenmenge|el volumen de datos
 die Debatte|el debate
-die Demokratie|la democracia
 das Detail|el detalle
-die Digitalisierung|la digitalización
 die Direktion|la dirección
 die Diskette|el disquete
 die Dokumentation|la documentación
 die Drohne|el dron
-der Druck|la presión
 die Durchsage|el anuncio por altavoz
 die Ehre|el honor
-die Eigenschaft|la característica
 die Einzahlung|el depósito
 die Eisenbahn|el ferrocarril
 die Elektrizität|la electricidad
-die Empfehlung|la recomendación
 der Empfang|la recepción
 die Energiequelle|la fuente de energía
-die Entfernung|la distancia
-die Entschuldigung|la disculpa
-die Entscheidung|la decisión
 die Enttäuschung|la decepción
 die Entwicklungskosten|los costos de desarrollo
-die Ernährung|la nutrición
 das Ereignis|el acontecimiento
-die Erlaubnis|el permiso
 die Ermäßigung|el descuento
-die Ernte|la cosecha
 die Eröffnung|la apertura
 die Ersatzteile|los repuestos
-die Erwärmung|el calentamiento
 die Fachkraft|el profesional especializado
-die Fakultät|la facultad
 der Fallschirm|el paracaídas
 die Fernbedienung|el control remoto
 die Feier|la celebración
@@ -1867,37 +1726,23 @@ die Ferien|las vacaciones
 die Finanzierung|la financiación
 die Fitness|la condición física
 die Fluggesellschaft|la aerolínea
-die Flüssigkeit|el líquido
 die Forschungsergebnisse|los resultados de investigación
 die Fortbildung|la capacitación
 die Fotokamera|la cámara fotográfica
 die Fragestellung|el planteamiento de la pregunta
 die Freiwilligenarbeit|el voluntariado
-der Frieden|la paz
 die Frist|el plazo
 das Frühstücksei|el huevo de desayuno
-die Führung|la guía, liderazgo
 der Fußballspieler|el futbolista
-die Garage|el garaje
 die Garantie|la garantía
 das Gebäude|el edificio
 die Gebühr|la tarifa
 das Gedächtnis|la memoria
 der Gegner|el oponente
-das Gehalt|el sueldo
-das Geheimnis|el secreto
-das Gegenteil|lo contrario
-die Gelegenheit|la oportunidad
 die Gemeinschaft|la comunidad
 das Gemüsegericht|el plato de verduras
-die Geschwindigkeit|la velocidad
-das Gesetz|la ley
-das Gesicht|la cara
-das Getränk|la bebida
 das Gewerbe|el negocio
 das Gewissen|la conciencia
-das Gewitter|la tormenta
-die Gewohnheit|la costumbre
 der Gipfel|la cima
 das Glasfaserinternet|internet de fibra óptica
 der Glaube|la fe
@@ -1907,9 +1752,7 @@ die Goldmedaille|la medalla de oro
 der Grenzübergang|el paso fronterizo
 die Großstadt|la gran ciudad
 die Grundschule|la escuela primaria
-die Gruppe|el grupo
 das Haarshampoo|el shampoo
-die Handlung|la acción
 der Handschuh|el guante
 die Hardwarekomponente|el componente de hardware
 das Haustier|la mascota
@@ -1917,14 +1760,10 @@ die Heizungskosten|los gastos de calefacción
 die Herausforderung|el desafío
 der Hintergrund|el fondo
 das Hindernis|el obstáculo
-der Hinweis|la pista
 der Hochschulabschluss|el título universitario
 die Hoffnungslosigkeit|la desesperanza
 das Huhn|la gallina
 die Identifikation|la identificación
-die Industrieanlage|la planta industrial
-die Informationstechnologie|la tecnología informática
-die Innovation|la innovación
 die Installation|la instalación
 die Integration|la integración
 das Interesse|el interés
@@ -1952,7 +1791,6 @@ die Kneipe|el bar
 die Konkurrenzfähigkeit|la competitividad
 das Kontoauszug|el extracto bancario
 die Kopfhörer|los audífonos
-die Kraft|la fuerza
 der Krankenwagen|la ambulancia
 die Kreditkarte|la tarjeta de crédito
 der Kühlschrankmagnet|el imán de refrigerador
@@ -1961,10 +1799,8 @@ die Kündigungsfrist|el plazo de aviso
 das Kunstwerk|la obra de arte
 die Lagerhalle|la bodega
 das Ladegerät|el cargador
-die Landwirtschaft|la agricultura
 die Lebensqualität|la calidad de vida
 das Lebensmittelgeschäft|la tienda de alimentos
-die Leidenschaft|la pasión
 die Leistungsfähigkeit|el rendimiento
 die Lernplattform|la plataforma de aprendizaje
 die Lieferungskosten|los costos de envío
@@ -1974,7 +1810,6 @@ die Luftverschmutzung|la contaminación del aire
 die Mannschaftskapitän|el capitán del equipo
 die Marktanalyse|el análisis de mercado
 die Maßnahme|la medida
-die Mehrheit|la mayoría
 das Mehl|la harina
 die Meinungfreiheit|la libertad de opinión
 die Menschenrechte|los derechos humanos
@@ -1982,12 +1817,9 @@ die Messe|la feria
 die Mietwohnung|el departamento arrendado
 die Minderheit|la minoría
 das Missverständnis|el malentendido
-das Mobiltelefon|el teléfono móvil
-die Motivation|la motivación
 die Mülltonne|el basurero
 die Musikanlage|el equipo de música
 die Muttersprache|la lengua materna
-die Nachhaltigkeit|la sostenibilidad
 die Nachtschicht|el turno de noche
 die Nahrung|el alimento
 die Nebenkosten|los gastos comunes
@@ -1995,20 +1827,15 @@ die Netzwerkverbindung|la conexión de red
 das Notebook|el notebook
 die Notiz|la nota
 die Notrufnummer|el número de emergencia
-die Oberfläche|la superficie
-die Öffentlichkeit|la opinión pública
 das Onlinebanking|la banca en línea
 der Onlinekurs|el curso en línea
 die Operationstechnik|la técnica operatoria
 der Ordnername|el nombre de carpeta
 die Organisationseinheit|la unidad organizativa
 der Parkplatz|el estacionamiento
-die Partnerschaft|la asociación
 der Passagier|el pasajero
 die Personalabteilung|el departamento de RRHH
-die Persönlichkeit|la personalidad
 die Perspektive|la perspectiva
-die Pflanze|la planta
 die Pflichtaufgabe|la tarea obligatoria
 die Plattform|la plataforma
 die Polizeistation|la comisaría
@@ -2025,7 +1852,6 @@ der Rabatt|el descuento
 die Rakete|el cohete
 der Rasen|el césped
 die Reaktion|la reacción
-die Realität|la realidad
 die Redaktion|la redacción
 die Regierungspartei|el partido gobernante
 die Reinigungskraft|el personal de limpieza
@@ -2042,7 +1868,6 @@ die Rundfahrt|el tour
 der Rucksacktourist|el mochilero
 die Sache|el asunto
 der Sachverhalt|los hechos
-die Sammlung|la colección
 die Satellitenverbindung|la conexión satelital
 die Schachtel|la caja
 die Schätzung|la estimación
@@ -2052,24 +1877,19 @@ die Schokolade|el chocolate
 die Schranke|la barrera
 die Schulbildung|la educación escolar
 die Schüssel|el bol
-die Sehenswürdigkeit|el atractivo turístico
 die Selbstständigkeit|el trabajo independiente
 die Sensortechnik|la tecnología de sensores
 die Sitzung|la reunión
 die Softwarelösung|la solución de software
-die Spannung|la tensión
 der Spezialist|el especialista
 die Spielkonsole|la consola de videojuegos
 die Sportart|el deporte
 die Sprachkenntnisse|los conocimientos de idioma
 die Sprachschule|la escuela de idiomas
 die Staatsangehörigkeit|la nacionalidad
-die Steckdose|el enchufe
 die Steuererklärung|la declaración de impuestos
 der Stoff|la tela
 die Stromversorgung|el suministro eléctrico
-die Studie|el estudio
-die Suchmaschine|el motor de búsqueda
 die Supermarktkette|la cadena de supermercados
 die Technologiebranche|la industria tecnológica
 die Teilnehmerliste|la lista de participantes
@@ -2081,14 +1901,12 @@ die Trainingsmethode|el método de entrenamiento
 die Überschrift|el título
 die Überwachungskamera|la cámara de vigilancia
 die Unterkunftskosten|los gastos de alojamiento
-die Unterhaltung|la entretención
 die Unternehmensstrategie|la estrategia empresarial
 die Umweltverschmutzung|la contaminación ambiental
 die Unfallversicherung|el seguro de accidentes
 die Universitätsklinik|la clínica universitaria
 die Urlaubsreise|el viaje de vacaciones
 die Useroberfläche|la interfaz de usuario
-die Verantwortung|la responsabilidad
 die Verkaufsstrategie|la estrategia de ventas
 die Verkehrsampel|el semáforo
 die Verkehrsregel|la norma de tránsito
@@ -2106,17 +1924,13 @@ die Waschmaschine|la lavadora
 die Weiterbildung|la educación continua
 die Weltmeisterschaft|el campeonato mundial
 die Werbung|la publicidad
-die Werkstatt|el taller
 die Wettervorhersage|el pronóstico del tiempo
 die Wiederholung|la repetición
-die Wissenschaft|la ciencia
-die Wissenschaftlerin|la científica
 die Wohngegend|la zona residencial
 die Wolkenkratzer|el rascacielos
 die Zeitschrift|la revista
 die Zentralheizung|la calefacción central
 die Zielgruppe|el grupo objetivo
-die Zufriedenheit|la satisfacción
 die Zugfahrt|el viaje en tren
 die Zukunftspläne|los planes futuros
 `;
@@ -2134,15 +1948,16 @@ const dbWords = rawWords.split('\n').map(l => l.trim()).filter(l => l.includes('
 
 
 // ==========================================
-// LÓGICA SPACED REPETITION (SRS) CON COOLDOWN
+// LÓGICA SRS (ANKI) Y MODO EXAMEN
 // ==========================================
-
 let currentCard = { verb: null, word: null };
 let isFlipped = { verb: false, word: false };
-
-// SISTEMA DE ENFRIAMIENTO: Recuerda las últimas 5 tarjetas vistas
 let recentCards = { verb: [], word: [] }; 
 const COOLDOWN_STEPS = 10; 
+
+// Variables para el Modo Examen
+let testQueue = { verb: [], word: [] };
+let isTestMode = { verb: false, word: false };
 
 function getProgress(type) {
   const data = localStorage.getItem(`srs_${type}`);
@@ -2156,8 +1971,9 @@ function saveProgress(type, data) {
 function resetProgress(type) {
   if(confirm("¿Seguro que quieres reiniciar este mazo? Se borrará tu historial de repasos y todas volverán a ser tarjetas nuevas.")) {
     localStorage.removeItem(`srs_${type}`);
-    recentCards[type] = []; // Reiniciamos también la memoria de enfriamiento
-    loadNextCard(type);
+    recentCards[type] = [];
+    if(isTestMode[type]) exitTestMode(type);
+    else loadNextCard(type);
   }
 }
 
@@ -2167,37 +1983,27 @@ function calculateNextInterval(cardProgress, quality) {
   let reps = cardProgress.reps || 0;
 
   if (quality === 0) {
-    reps = 0;
-    interval = 0; 
-    ease = Math.max(1.3, ease - 0.2);
+    reps = 0; interval = 0; ease = Math.max(1.3, ease - 0.2);
   } else {
-    if (reps === 0) interval = 1;      
-    else if (reps === 1) interval = 3; 
-    else interval = Math.round(interval * ease); 
+    if (reps === 0) interval = 1; else if (reps === 1) interval = 3; else interval = Math.round(interval * ease);
     reps++;
   }
-
-  const nextReview = Date.now() + (interval * 24 * 60 * 60 * 1000);
-  return { ease, interval, reps, nextReview };
+  return { ease, interval, reps, nextReview: Date.now() + (interval * 24 * 60 * 60 * 1000) };
 }
 
+// Carga del Modo Anki Normal
 function loadNextCard(type) {
   const db = type === 'verb' ? dbVerbs : dbWords;
   const progress = getProgress(type);
   const now = Date.now();
 
-  let queueNew = [];
-  let queueReview = [];
-  let queueLearning = [];
+  let queueNew = [], queueReview = [], queueLearning = [];
 
-  // Clasificamos todas las tarjetas según su estado
   db.forEach(item => {
     const p = progress[item.id];
-    if (!p) {
-      queueNew.push(item);
-    } else if (p.nextReview <= now) {
-      if (p.interval === 0) queueLearning.push(item);
-      else queueReview.push(item);
+    if (!p) queueNew.push(item);
+    else if (p.nextReview <= now) {
+      if (p.interval === 0) queueLearning.push(item); else queueReview.push(item);
     }
   });
 
@@ -2206,36 +2012,24 @@ function loadNextCard(type) {
   document.getElementById(`${type}-stat-review`).innerText = queueReview.length;
 
   let nextItem = null;
-
-  // FILTRO DE ENFRIAMIENTO: Excluimos las tarjetas que vimos recientemente
   const availLearn = queueLearning.filter(c => !recentCards[type].includes(c.id));
   const availReview = queueReview.filter(c => !recentCards[type].includes(c.id));
   const availNew = queueNew.filter(c => !recentCards[type].includes(c.id));
 
-  // Prioridad 1: Aprender | Prioridad 2: Repasar | Prioridad 3: Nuevas
-  if (availLearn.length > 0) {
-    nextItem = availLearn[Math.floor(Math.random() * availLearn.length)];
-  } else if (availReview.length > 0) {
-    nextItem = availReview[Math.floor(Math.random() * availReview.length)];
-  } else if (availNew.length > 0) {
-    nextItem = availNew[Math.floor(Math.random() * availNew.length)];
-  } else {
-    // SALVAVIDAS: Si TODAS las tarjetas pendientes están en la memoria de enfriamiento 
-    // Buscamos cuál fue la que viste hace MÁS tiempo dentro de esas recientes.
+  if (availLearn.length > 0) nextItem = availLearn[Math.floor(Math.random() * availLearn.length)];
+  else if (availReview.length > 0) nextItem = availReview[Math.floor(Math.random() * availReview.length)];
+  else if (availNew.length > 0) nextItem = availNew[Math.floor(Math.random() * availNew.length)];
+  else {
     for (let i = 0; i < recentCards[type].length; i++) {
         let id = recentCards[type][i];
         let found = queueLearning.find(c => c.id === id) || queueReview.find(c => c.id === id) || queueNew.find(c => c.id === id);
-        if (found) {
-            nextItem = found;
-            break; // Rompemos el ciclo en la más antigua (índice 0)
-        }
+        if (found) { nextItem = found; break; }
     }
   }
 
   const area = document.getElementById(`${type}-fc-area`);
   const emptyState = document.getElementById(`${type}-empty-state`);
 
-  // Si a pesar de todo no hay siguiente tarjeta, mostramos el mensaje de fin
   if (!nextItem) {
     area.style.display = 'none';
     emptyState.style.display = 'block';
@@ -2246,11 +2040,13 @@ function loadNextCard(type) {
   emptyState.style.display = 'none';
 
   const cardEl = document.getElementById(`${type}-card`);
-  
   cardEl.style.transition = 'none';
   cardEl.classList.remove('is-flipped');
   isFlipped[type] = false;
+  
+  // Limpiamos los controles visibles
   document.getElementById(`${type}-controls`).classList.remove('visible');
+  document.getElementById(`${type}-test-controls`).classList.remove('visible');
 
   currentCard[type] = nextItem;
   if (type === 'verb') {
@@ -2263,9 +2059,7 @@ function loadNextCard(type) {
     document.getElementById('word-back-es').innerText = nextItem.es;
   }
 
-  setTimeout(() => {
-    cardEl.style.transition = 'transform 0.6s cubic-bezier(0.4, 0.2, 0.2, 1)';
-  }, 50);
+  setTimeout(() => { cardEl.style.transition = 'transform 0.6s cubic-bezier(0.4, 0.2, 0.2, 1)'; }, 50);
 }
 
 function flipCard(type) {
@@ -2275,7 +2069,11 @@ function flipCard(type) {
   document.getElementById(`${type}-card`).classList.add('is-flipped');
   
   setTimeout(() => {
-    document.getElementById(`${type}-controls`).classList.add('visible');
+    if(isTestMode[type]) {
+      document.getElementById(`${type}-test-controls`).classList.add('visible');
+    } else {
+      document.getElementById(`${type}-controls`).classList.add('visible');
+    }
   }, 300);
 }
 
@@ -2289,17 +2087,12 @@ function processAnswer(type, quality) {
   progress[cardId] = calculateNextInterval(currentP, quality);
   saveProgress(type, progress);
   
-  // ACTUALIZAR MEMORIA RECIENTE (SISTEMA DE ENFRIAMIENTO)
   recentCards[type] = recentCards[type].filter(id => id !== cardId); 
   recentCards[type].push(cardId);
-  if (recentCards[type].length > COOLDOWN_STEPS) {
-    recentCards[type].shift();
-  }
+  if (recentCards[type].length > COOLDOWN_STEPS) recentCards[type].shift();
   
   document.getElementById(`${type}-controls`).classList.remove('visible');
-  setTimeout(() => {
-    loadNextCard(type);
-  }, 150);
+  setTimeout(() => { loadNextCard(type); }, 150);
 }
 
 // ==========================================
